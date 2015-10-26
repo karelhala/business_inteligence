@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="10/26/2015 12:34:38 AM"
@@ -11,9 +11,629 @@
   DTS:LocaleID="1029"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionGUID="{FA3CAD94-A574-4B3E-AED2-FC75A09B7722}">
+  DTS:VersionBuild="1"
+  DTS:VersionGUID="{A4713B2D-C360-4C07-91BC-4F9D3454CA21}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{ACA6B545-9E71-4A7B-AE93-01510222CD32}"
+      DTS:ObjectName="Flat File Connection Manager">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1029"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Karel\Documents\GIT\github\business_inteligence\data\core_contract.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="id"
+              DTS:DTSID="{25486578-4461-4A94-BF8F-27CE030111D8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="signup_date"
+              DTS:DTSID="{0D745BA4-C378-4B45-8309-ED2211A20389}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="house_id"
+              DTS:DTSID="{A8E0E4F6-48D5-4F3E-A114-13E3D6B9E3B6}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="fee"
+              DTS:DTSID="{D980EFCB-F115-4826-9B25-84341E761710}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="kind"
+              DTS:DTSID="{72E27222-32C5-4B54-99D2-90173AE6CBC5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="cancelled_at"
+              DTS:DTSID="{B5047665-A669-4004-A801-4869DCE8BA30}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="is_active"
+              DTS:DTSID="{C3B6BDA4-2F95-4F50-A2D2-D4CDA643FFA1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="service_end_date"
+              DTS:DTSID="{69DCD3C9-8C8E-4DB2-8443-A2257D439283}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="service_start_date"
+              DTS:DTSID="{64494833-90E4-4B3F-992F-4ACF3009CBD4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="stripe_plan"
+              DTS:DTSID="{E1F61592-0CC5-4DF3-B570-200E4751AA3F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="stripe_subscription"
+              DTS:DTSID="{C0149EB8-C90E-4C16-BF5D-4524A78570FA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="proposal_id"
+              DTS:DTSID="{0CAA6C63-EDA8-4679-9EFA-E1CEE0C6BDD5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ready_for_billing_migration"
+              DTS:DTSID="{2C290867-533A-47A6-8120-69F227C31A55}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
   <DTS:Variables />
-  <DTS:Executables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Data Flow Task"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{62949C47-56D4-45FD-8951-60034F6FC4B5}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Data Flow Task"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Data Flow Task\core_contract"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Source"
+              localeId="1029"
+              name="core_contract"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether zero-length columns are treated as null."
+                  name="RetainNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Data Flow Task\core_contract.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager]"
+                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output]"
+                  name="Flat File Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[id]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[id]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[id]"
+                      name="id"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[signup_date]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[signup_date]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[signup_date]"
+                      name="signup_date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[house_id]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[house_id]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[house_id]"
+                      name="house_id"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[fee]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[fee]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[fee]"
+                      name="fee"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[kind]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[kind]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[kind]"
+                      name="kind"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[cancelled_at]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[cancelled_at]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[cancelled_at]"
+                      name="cancelled_at"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[is_active]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[is_active]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[is_active]"
+                      name="is_active"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[service_end_date]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[service_end_date]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[service_end_date]"
+                      name="service_end_date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[service_start_date]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[service_start_date]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[service_start_date]"
+                      name="service_start_date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[stripe_plan]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[stripe_plan]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[stripe_plan]"
+                      name="stripe_plan"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[stripe_subscription]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[stripe_subscription]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[stripe_subscription]"
+                      name="stripe_subscription"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[proposal_id]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[proposal_id]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[proposal_id]"
+                      name="proposal_id"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[ready_for_billing_migration]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[ready_for_billing_migration]"
+                      length="50"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].Columns[ready_for_billing_migration]"
+                      name="ready_for_billing_migration"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[id]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[signup_date]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="signup_date" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[house_id]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="house_id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[fee]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="fee" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[kind]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="kind" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[cancelled_at]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="cancelled_at" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[is_active]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="is_active" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[service_end_date]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="service_end_date" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[service_start_date]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="service_start_date" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[stripe_plan]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="stripe_plan" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[stripe_subscription]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="stripe_subscription" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[proposal_id]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="proposal_id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Output].ExternalColumns[ready_for_billing_migration]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="ready_for_billing_migration" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output]"
+                  isErrorOut="true"
+                  name="Flat File Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      codePage="1250"
+                      dataType="text"
+                      description="Flat File Source Error Output Column"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      name="Flat File Source Error Output Column" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\core_contract.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="sql12">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="153,42"
+          Id="Package\Data Flow Task"
+          TopLeft="82,61" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\Data Flow Task">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="145,42"
+          Id="Package\Data Flow Task\core_contract"
+          TopLeft="81,53" />
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+</Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
