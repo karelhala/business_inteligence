@@ -1,0 +1,1630 @@
+id;title;date;kind
+1;Jorge & Marcell;2015-05-05;MAI
+2;Fernando’s Route;2015-05-07;MAI
+3;Fernando’s & Alfredo’s Route ;2015-05-12;MAI
+4;Fernando’s Route;2015-05-14;MAI
+5;Fernando’s Route;2015-05-15;MAI
+6;Johnny’s Route;2015-05-19;MAI
+7;Ramiro;2015-05-27;MAI
+8;Marcell’s & Jorge’s Route;2015-05-22;MAI
+9;Ramiro;2015-05-28;MAI
+10;Jorge's Route;2015-05-28;MAI
+11;Johnny's & Jose's Route;2015-05-26;MAI
+12;jorge Maintainance;2015-06-04;MAI
+13;Jorge's & Marcell's Route;2015-05-27;MAI
+14;Ramiro and Jose ;2015-06-04;MAI
+16;Abel;2015-06-01;MAI
+17;Ramiro and Jose Pruning;2015-06-01;MAI
+18;johnny Maintainance;2015-06-01;MAI
+19;Ramiro & Antonio;2015-05-29;MAI
+20;Daniel's & Marcell's Route;2015-05-29;MAI
+21;Abel;2015-05-29;MAI
+22;fernando Maintainance;2015-06-02;MAI
+23;jtrewin Maintainance;2015-06-07;MAI
+24;Abel Pruning;2015-06-08;MAI
+26;Maintainance-daniel;2015-06-08;MAI
+27;Ramiro Pruning;2015-06-08;MAI
+1324;Pruning-antonio,jason-auto-1324;2015-09-11;PRU
+1528;Pruning-eliasloza,ramiro-auto-1528;2015-09-25;PRU
+1334;Maintenance-ricardo-auto-1334;2015-09-14;MAI
+31;Ramiro and Jose Pruning;2015-06-05;MAI
+32;Ramiro and Jose;2015-06-03;MAI
+33;johnny Maintainance;2015-06-02;MAI
+34;jorge Maintainance;2015-06-02;MAI
+36;Abel;2015-06-02;MAI
+37;Abel;2015-06-09;MAI
+1537;Maintenance-marcell-auto-1537;2015-09-28;MAI
+1344;Maintenance-fernando,ringo-auto-1344;2015-09-15;MAI
+41;Maintainance-Fernando;2015-06-16;MAI
+1544;Maintenance-alfredo-auto-1544;2015-09-29;MAI
+43;Maintainance-daniel;2015-06-12;MAI
+44;Maintainance-johnny;2015-06-12;MAI
+45;Maintainance-aaron;2015-06-25;MAI
+1364;Irrigation-jesus-auto-1364;2015-09-14;IRR
+47;Maintainance-jtrewin;2015-06-15;MAI
+48;mulching - Tony plus one;2015-06-25;MAI
+50;Maintainance-fernando;2015-07-03;MAI
+51;Maintainance-daniel;2015-06-11;MAI
+52;Maintainance-jtrewin;2015-06-11;MAI
+53;Maintainance-fernando;2015-06-11;MAI
+1374;Maintenance-johnny-auto-1374;2015-09-16;MAI
+55;Maintainance-Fernando;2015-06-17;MAI
+56;Maintainance-fernando;2015-06-24;MAI
+57;Maintainance-fernando;2015-06-25;MAI
+58;Maintainance-daniel;2015-07-03;MAI
+59;Initial Clean Up- Abel and trainees;2015-07-08;MAI
+60;Maintainance-johnny;2015-06-24;MAI
+61;clean up - abel and crew;2015-06-24;MAI
+62;Add-ons Nancy and Benito;2015-06-23;MAI
+63;Maintainance-johnny;2015-06-23;MAI
+1549;Maintenance-ernesto-auto-1549;2015-09-29;MAI
+1384;Maintenance-roberto-auto-1384;2015-09-16;MAI
+66;Clean ups- Abel and crew;2015-06-23;MAI
+67;Initial Clean Up- Abel;2015-06-22;MAI
+69;Maintainance-jtrewin;2015-06-17;MAI
+70;Maintainance-daniel;2015-06-29;MAI
+71;Add ons- Nancy;2015-06-22;MAI
+72;mulching - tony plus one;2015-06-24;MAI
+1554;Maintenance-jordanforbes-auto-1554;2015-09-29;MAI
+75;Maintainance-ernesto;2015-06-26;MAI
+76;Maintainance-JoseFausto;2015-06-18;MAI
+1559;Maintenance-alfredo-auto-1559;2015-09-30;MAI
+78;Maintainance-Fernando;2015-06-18;MAI
+80;Maintainance-daniel;2015-06-26;MAI
+81;Maintainance-fernando;2015-06-26;MAI
+82;Johnny-ReDo;2015-06-18;MAI
+1414;Pruning-elias,hugo-auto-1414;2015-09-16;PRU
+84;Maintainance-Marcell;2015-06-19;MAI
+85;Maintainance-marcell,alfredo;2015-06-27;MAI
+86;Maintainance-Marcell;2015-06-20;MAI
+87;Initial Clean up- Abel and trainees;2015-07-06;MAI
+88;Maintainance-JoseFausto;2015-06-20;MAI
+1564;Maintenance-ricardogarcia-auto-1564;2015-09-30;MAI
+91;Maintainance-luis,luis;2015-06-30;MAI
+92;Maintainance-fernando;2015-07-06;MAI
+94;Maintainance-daniel;2015-06-25;MAI
+1569;Maintenance-ringomartinez-auto-1569;2015-09-30;MAI
+96;Maintainance-marcell,alfredo;2015-07-04;MAI
+97;Maintainance-marcell,alfredo;2015-07-03;MAI
+99;Maintainance-aaron;2015-06-30;MAI
+101;Maintainance-marcell,alfredo;2015-06-29;MAI
+103;Maintainance-ernesto;2015-06-30;MAI
+106;Maintainance-josefausto;2015-07-03;MAI
+107;Maintainance-josefausto;2015-07-06;MAI
+108;Maintainance-ernesto,marcell;2015-07-07;MAI
+109;Initial Clean Up- Abel and trainees;2015-07-09;MAI
+112;Initial clean up- Antonio and Eddy;2015-07-03;MAI
+113;Maintainance-johnny;2015-07-09;MAI
+115;Maintainance-fernando;2015-07-09;MAI
+116;Maintainance-marcell,roberto;2015-07-08;MAI
+117;Initial Clean Up- Antonio and Eddy;2015-07-09;MAI
+118;Maintainance-josefausto;2015-07-08;MAI
+119;Maintainance-fernando;2015-07-08;MAI
+122;Maintainance-luisruiz;2015-07-10;MAI
+1394;Maintenance-ricardogarcia-auto-1394;2015-09-17;MAI
+1404;Maintenance-donovancaruth-auto-1404;2015-09-18;MAI
+1424;Pruning-daniel-auto-1424;2015-09-17;PRU
+1433;Irrigation-jesuspineda-auto-1433;2015-09-18;IRR
+1442;Maintenance-aaron-auto-1442;2015-09-21;MAI
+1451;Maintenance-marcell-auto-1451;2015-09-22;MAI
+1478;Maintenance-josefernandez-auto-1478;2015-09-24;MAI
+1487;Maintenance-roberto-auto-1487;2015-09-24;MAI
+1496;Maintenance-jonathansanchez-auto-1496;2015-09-25;MAI
+1505;Pruning-hugohernandez,jasonmontes-auto-1505;2015-09-21;PRU
+1514;Irrigation-jesuspineda-auto-1514;2015-09-22;IRR
+1460;Maintenance-aaron,jonathansanchez,lancebreyer-auto-1460;2015-09-22;MAI
+1469;Maintenance-aaron,hugohernandez-auto-1469;2015-09-23;MAI
+1523;Project-devonoropeza,jesuspinedajr-auto-1523;2015-09-25;PRO
+124;Maintainance-roberto;2015-07-10;MAI
+125;Jorge's & Marcell's Monday route;2015-04-27;MAI
+126;Fernando & Johnny;2015-04-29;MAI
+127;Fernando's Monday route;2015-04-27;MAI
+128;Daniel's & Johnny's Route;2015-04-28;MAI
+129;Daniel;2015-05-01;MAI
+130;Fernando & Johnny;2015-05-04;MAI
+131;Daniel's & Johnny's Monday route;2015-04-27;MAI
+132;Jorge & Marcell;2015-04-30;MAI
+133;Daniel;2015-05-05;MAI
+134;Johnny & John;2015-05-05;MAI
+135;Fernando;2015-05-05;MAI
+136;Johnny’s & Travis’ Route;2015-05-12;MAI
+137;Jorge & Marcell;2015-05-01;MAI
+138;Daniel’s Route;2015-05-12;MAI
+139;Jorge & Marcell;2015-05-04;MAI
+140;Daniel;2015-05-04;MAI
+141;Fernando & Johnny;2015-05-01;MAI
+142;Johnny’s & John’s Route;2015-05-06;MAI
+143;Abel's and Antonio's Route;2015-05-26;MAI
+144;Fernando’s & Johnny’s  Route;2015-05-06;MAI
+145;Daniel’s Route;2015-05-06;MAI
+146;Jorge’s & Marcell’s Route;2015-05-06;MAI
+147;John’s & Travis’ Route;2015-05-12;MAI
+148;Johnny’s Route;2015-05-07;MAI
+149;Jorge’s & Marcell’s Route;2015-05-07;MAI
+150;Daniel’s Route;2015-05-07;MAI
+151;Daniel’s Route;2015-05-08;MAI
+152;Fernando’s Route;2015-05-08;MAI
+153;Marcell’s & Magdalena’s Route;2015-05-08;MAI
+154;Jorge’s, John’s Route;2015-05-08;MAI
+155;Travis Route;2015-05-08;MAI
+156;daniel Maintainance;2015-06-04;MAI
+157;Johnny’s Route;2015-05-11;MAI
+158;John’s  Route;2015-05-11;MAI
+159;Daniel’s Route;2015-05-11;MAI
+160;Jorge’s Route;2015-05-11;MAI
+161;Fernando’s & Marcell’s Route;2015-05-11;MAI
+162;Jorge’s & Marcell’s Route;2015-05-12;MAI
+163;Daniel’s Route;2015-05-13;MAI
+164;Fernando’s & Jorge’s Route;2015-05-13;MAI
+165;John’s & Marcell’s Route;2015-05-13;MAI
+166;Johnny’s Route;2015-05-13;MAI
+167;Johnny’s & Marcell’s Route;2015-05-15;MAI
+168;Jorge’s & Louis’ Route;2015-05-15;MAI
+169;Johnny’s Route;2015-05-18;MAI
+170;Daniel’s Route;2015-05-14;MAI
+171;Jorge’s & Marcell’s Route;2015-05-14;MAI
+172;Johnny’s Route;2015-05-14;MAI
+173;Daniel’s & Odysseas’ Route;2015-05-15;MAI
+174;Fernando’s & Arthur’s Route;2015-05-18;MAI
+175;Daniel’s Route;2015-05-18;MAI
+176;John’s Route;2015-05-18;MAI
+177;Jorge’s & Marcell’s Route;2015-05-18;MAI
+178;Marcell’s Route;2015-05-19;MAI
+179;John’s & Arthur’s Route;2015-05-19;MAI
+180;Johnny’s Route;2015-05-20;MAI
+181;Daniel’s Route;2015-05-19;MAI
+182;Fernando’s Route;2015-05-19;MAI
+183;John’s Route;2015-05-20;MAI
+184;Fernando’s & Marcell’s Route;2015-05-20;MAI
+185;Jorge’s Route;2015-05-20;MAI
+186;Fernando’s & Arthur’s Route;2015-05-21;MAI
+187;Daniel’s Route;2015-05-20;MAI
+188;Jorge’s Route;2015-05-21;MAI
+189;Johnny’s Route;2015-05-21;MAI
+190;Daniel’s & Marcell’s Route;2015-05-21;MAI
+191;John’s Route;2015-05-21;MAI
+192;Fernando's & Jose's Route;2015-05-27;MAI
+193;John's Route;2015-05-27;MAI
+194;Daniel’s Route;2015-05-22;MAI
+195;Fernando’s & Arthur’s  Route;2015-05-22;MAI
+196;fernando Maintainance;2015-06-04;MAI
+197;Johnny’s  Route;2015-05-22;MAI
+198;Daniel's & Jose's Route;2015-05-28;MAI
+199;Ramiro's Route;2015-05-26;MAI
+200;Abel and Antonio;2015-05-27;MAI
+201;Daniel's Route;2015-05-27;MAI
+202;Abel & Antonio's Route;2015-05-25;MAI
+203;Johnny's & Arthur's Route;2015-05-27;MAI
+204;John's & Arthur's Route;2015-05-26;MAI
+205;Jorge's Route;2015-05-26;MAI
+206;Jonny's and Arthur's route;2015-05-25;MAI
+207;Jorge's route;2015-05-25;MAI
+208;jtrewin Maintainance;2015-06-04;MAI
+209;Abel and Antonio;2015-05-28;MAI
+210;Fernando's Route;2015-05-26;MAI
+211;Fernando's & Marcell's Route;2015-05-28;MAI
+212;John's & Arthur's Route;2015-05-28;MAI
+213;Jorge's Route;2015-05-29;MAI
+214;Johnny's Route;2015-05-28;MAI
+215;Daniel's & Marcell's Route;2015-05-26;MAI
+216;Jose's & Ramiro's Route;2015-05-25;MAI
+217;Jorge's & Jose's Route;2015-05-29;MAI
+218;Abel Pruning ;2015-06-04;MAI
+219;marcell Maintainance;2015-06-04;MAI
+220;Maintainance-daniel;2015-06-09;MAI
+221;Maintainance-Daniel;2015-06-19;MAI
+222;marcell Maintainance;2015-06-02;MAI
+223;Fernando's Route;2015-05-29;MAI
+224;Maintainance-johnny;2015-06-09;MAI
+225;Maintainance-fernando;2015-06-09;MAI
+226;fernando,aaron Maintainance;2015-06-01;MAI
+227;daniel Maintainance;2015-06-01;MAI
+228;Antonio and Alfredo;2015-06-01;MAI
+229;marcell,arthur Maintainance;2015-06-01;MAI
+230;Maintainance-fernando;2015-06-10;MAI
+231;Maintainance-daniel,roberto;2015-07-01;MAI
+232;jtrewin Maintainance;2015-06-01;MAI
+233;jorge,ernesto Maintainance;2015-06-01;MAI
+234;Maintainance-ernesto;2015-06-09;MAI
+235;jtrewin Maintainance;2015-06-02;MAI
+236;Unnamed route;2015-06-04;MAI
+237;daniel Maintainance;2015-06-02;MAI
+238;daniel Maintainance;2015-06-05;MAI
+239;fernando Maintainance;2015-06-07;MAI
+240;johnny Maintainance;2015-06-04;MAI
+241;Johnny's & Arthur's Route;2015-05-29;MAI
+242;Maintainance-jtrewin;2015-06-09;MAI
+243;jorge Maintainance;2015-06-05;MAI
+244;Maintainance-johnny;2015-07-03;MAI
+245;marcell Maintainance;2015-06-05;MAI
+246;Maintainance-ernesto;2015-06-08;MAI
+247;Maintainance-josefausto;2015-06-09;MAI
+248;Maintainance-josefausto;2015-06-08;MAI
+249;Maintainance-jtrewin,carlosmunguia;2015-07-03;MAI
+250;Maintainance-jtrewin,carlosmunguia;2015-07-01;MAI
+251;Maintainance-jtrewin;2015-06-08;MAI
+252;johnny Maintainance;2015-06-05;MAI
+253;Maintainance-fernando;2015-06-08;MAI
+254;Maintainance-johnny;2015-06-08;MAI
+255;jorge Maintainance;2015-06-03;MAI
+256;Maintainance-marcell,aaron;2015-06-08;MAI
+257;fernando Maintainance;2015-06-05;MAI
+258;Maintainance-marcell;2015-06-09;MAI
+259;Abel Pruning;2015-06-05;MAI
+260;Ramiro and Jose;2015-06-02;MAI
+261;Maintenance-marcell,aaron;2015-06-10;MAI
+262;Phone test - ricardo and mario and elias;2015-07-10;MAI
+263;Maintainance-daniel;2015-07-02;MAI
+264;johnny Maintainance;2015-06-03;MAI
+265;Tony and Alfredo projects;2015-06-03;MAI
+266;Maintainance-josefausto;2015-06-10;MAI
+267;fernando Maintainance;2015-06-03;MAI
+268;daniel Maintainance;2015-06-03;MAI
+269;jtrewin Maintainance;2015-06-03;MAI
+270;marcell Maintainance;2015-06-03;MAI
+271;Ramiro Pruning;2015-06-09;MAI
+272;Maintainance-ernesto;2015-06-10;MAI
+273;Maintainance-aaron;2015-07-03;MAI
+274;Abel;2015-06-03;MAI
+275;Maintainance-johnny;2015-06-10;MAI
+276;Anthonys test route;2015-06-01;MAI
+277;Maintainance-daniel;2015-06-10;MAI
+278;Maintainance-ernesto;2015-07-02;MAI
+279;Maintainance-jtrewin;2015-06-10;MAI
+280;Maintainance-JoseFausto;2015-06-19;MAI
+281;Maintainance-Daniel;2015-06-16;MAI
+282;Maintainance-josefausto;2015-06-22;MAI
+283;Maintainance-ernesto;2015-06-11;MAI
+284;Maintainance-Johnny;2015-06-16;MAI
+285;Maintainance-JoseFausto;2015-06-16;MAI
+286;Maintainance-Ernesto;2015-06-16;MAI
+287;Maintainance-johnny;2015-06-11;MAI
+288;Maintainance-daniel;2015-07-04;MAI
+289;Maintainance-johnny;2015-06-25;MAI
+1314;Irrigation-devon,jesus-auto-1314;2015-09-10;IRR
+292;Maintainance-jtrewin;2015-06-16;MAI
+293;Maintainance-aaron;2015-07-01;MAI
+294;Maintainance-Marcell;2015-06-16;MAI
+295;Maintainance-josealvarado;2015-07-01;MAI
+1529;Irrigation-jesuspineda-auto-1529;2015-09-25;IRR
+297;Maintainance-josefausto;2015-06-12;MAI
+299;Maintainance-aaron;2015-06-16;MAI
+300;Maintainance-fernando;2015-06-12;MAI
+301;Maintainance-ernesto;2015-06-12;MAI
+302;Maintenance-marcell, aaron;2015-06-12;MAI
+303;Maintainance-Ernesto;2015-06-19;MAI
+304;Maintainance-jtrewin,carlosmunguia;2015-07-02;MAI
+305;Maintainance-daniel;2015-06-23;MAI
+306;Maintainance-fernando;2015-07-01;MAI
+308;Maintainance-ernesto,marcell;2015-07-06;MAI
+309;Maintainance-fernando;2015-06-23;MAI
+310;Maintainance-aaron;2015-06-24;MAI
+311;Maintainance-josefausto;2015-06-25;MAI
+312;Maintainance-Daniel;2015-06-15;MAI
+313;Maintainance-josefausto,alfredo;2015-06-11;MAI
+314;Maintainance-Marcell;2015-06-15;MAI
+315;Maintainance-Fernando;2015-06-15;MAI
+316;Maintainance-fernando;2015-06-22;MAI
+317;Maintainance-roberto,josealvarado;2015-06-25;MAI
+1335;Maintenance-marcell-auto-1335;2015-09-14;MAI
+1345;Maintenance-marcell-auto-1345;2015-09-15;MAI
+321;Maintenance-marcell, aaron;2015-06-11;MAI
+322;Maintainance-alfredo;2015-07-10;MAI
+323;Maintainance-marcell,alfredo;2015-06-24;MAI
+324;Maintainance-JoseFausto;2015-06-15;MAI
+325;Maintainance-aaron;2015-06-23;MAI
+326;Maintainance-ernesto;2015-06-25;MAI
+327;Route 11;2015-06-11;MAI
+328;Maintainance-Aaron;2015-06-15;MAI
+329;Maintainance-ernesto;2015-06-23;MAI
+330;Maintainance-aaron,alfredo;2015-07-06;MAI
+331;Maintainance-JoseFausto;2015-06-17;MAI
+333;Maintainance-Marcell;2015-06-17;MAI
+334;Maintainance-Ernesto;2015-06-17;MAI
+335;Maintainance-Johnny;2015-06-17;MAI
+336;Maintainance-aaron;2015-06-17;MAI
+337;Maintainance-luis,luis;2015-07-02;MAI
+1355;Maintenance-roberto-auto-1355;2015-09-15;MAI
+339;Maintainance-Daniel;2015-06-17;MAI
+340;Maintainance-marcell,alfredo;2015-06-23;MAI
+341;Maintainance-josefausto;2015-06-23;MAI
+342;Maintainance-jtrewin;2015-06-22;MAI
+343;Maintainance-marcell,alfredo;2015-07-02;MAI
+344;Maintainance-josefausto;2015-06-24;MAI
+345;Maintainance-marcell,alfredo;2015-06-22;MAI
+346;Maintainance-ernesto;2015-06-24;MAI
+347;Maintainance-daniel;2015-06-24;MAI
+348;Maintainance-roberto,josealvarado;2015-06-24;MAI
+349;Maintainance-fernando;2015-06-29;MAI
+350;Maintainance-roberto,josealvarado;2015-06-23;MAI
+351;Maintainance-jtrewin;2015-06-25;MAI
+352;Maintainance-Jtrewin;2015-06-19;MAI
+353;Maintenance-marcell, aaron;2015-06-13;MAI
+354;Maintainance-aaron;2015-06-29;MAI
+355;Maintainance-Fernando;2015-06-19;MAI
+356;Maintainance-jtrewin;2015-06-23;MAI
+357;Maintainance-Marcell;2015-06-18;MAI
+359;Maintainance-ernesto;2015-06-22;MAI
+360;Maintainance-johnny;2015-06-22;MAI
+361;Maintainance-jtrewin,carlosmunguia;2015-06-30;MAI
+362;Maintainance-daniel;2015-06-22;MAI
+363;Maintainance-josefausto;2015-06-30;MAI
+1365;Pruning-elias,ramiro-auto-1365;2015-09-15;PRU
+366;Maintainance-aaron;2015-06-22;MAI
+367;MaintainanceDELETEME-roberto,josealvarado;2015-07-02;MAI
+368;Maintainance-jtrewin;2015-06-24;MAI
+1375;Maintenance-donovan-auto-1375;2015-09-16;MAI
+370;Maintainance-aaron;2015-06-18;MAI
+371;Maintainance-Ernesto;2015-06-15;MAI
+1415;Pruning-antonio,jason-auto-1415;2015-09-16;PRU
+1385;Maintenance-alfredo-auto-1385;2015-09-17;MAI
+1395;Maintenance-roberto-auto-1395;2015-09-17;MAI
+372;Maintainance-marcell,alfredo;2015-06-25;MAI
+374;Maintainance-Johnny;2015-06-15;MAI
+1315;Irrigation-jesus-auto-1315;2015-09-10;IRR
+377;Maintainance-johnny;2015-06-30;MAI
+1538;Maintenance-aaron-auto-1538;2015-09-28;MAI
+379;Maintainance-aaron;2015-06-26;MAI
+381;Maintainance-johnny;2015-06-26;MAI
+382;Maintainance-Ernesto;2015-06-18;MAI
+383;Maintainance-jtrewin;2015-06-26;MAI
+384;Maintainance-Johnny;2015-06-18;MAI
+385;Maintainance-Daniel;2015-06-18;MAI
+386;Maintainance-jtrewin;2015-06-18;MAI
+387;Maintainance-ernesto;2015-07-03;MAI
+388;Maintainance-daniel,roberto;2015-06-30;MAI
+389;Maintainance-josealvarado;2015-06-30;MAI
+390;Maintainance-josefausto;2015-07-02;MAI
+391;Maintainance-fernando;2015-06-30;MAI
+392;Maintainance-roberto,josealvarado;2015-06-26;MAI
+393;Maintainance-josefausto;2015-06-26;MAI
+394;Maintainance-marcell,alfredo;2015-06-26;MAI
+395;Maintainance-Aaron;2015-06-19;MAI
+396;Maintainance-DELETEME;2015-06-19;MAI
+397;Maintenance-Johnny;2015-06-19;MAI
+398;Maintainance-fernando;2015-07-02;MAI
+1336;Maintenance-aaron-auto-1336;2015-09-14;MAI
+400;Maintainance-josealvarado,ernesto;2015-07-08;MAI
+401;Maintainance-marcell,alfredo;2015-06-30;MAI
+402;Maintainance-daniel,roberto;2015-07-06;MAI
+403;Maintainance-luis,luis;2015-07-01;MAI
+404;Maintainance-marcell,josefausto,elias;2015-07-07;MAI
+405;Maintainance-johnny;2015-06-29;MAI
+406;jesus sr test;2015-06-26;MAI
+407;Maintenance-josealvarado;2015-07-02;MAI
+408;Maintainance-luis,carlosmunguia;2015-07-06;MAI
+409;Maintainance-dimitris,roberto;2015-07-07;MAI
+410;Maintainance-johnny;2015-07-01;MAI
+411;Maintainance-aaron;2015-07-07;MAI
+412;Maintainance-fernando;2015-07-07;MAI
+413;Maintainance-ernesto;2015-06-29;MAI
+414;Maintainance-ernesto;2015-07-01;MAI
+415;Maintainance-aaron;2015-07-02;MAI
+416;Maintainance-marcell,alfredo;2015-07-01;MAI
+417;Maintainance-alfredo;2015-07-07;MAI
+418;Maintainance-josefausto;2015-06-29;MAI
+419;Maintainance-jtrewin,carlosmunguia;2015-06-29;MAI
+420;Maintainance-jtrewin,carlosmunguia;2015-07-04;MAI
+421;CLean up- Antonio and Eddy;2015-07-02;MAI
+422;Maintainance-luis;2015-06-29;MAI
+423;Maintainance-josealvarado;2015-06-29;MAI
+424;Maintainance-jtrewin,carlosmunguia;2015-07-07;MAI
+425;Maintainance-ernesto;2015-07-10;MAI
+426;Maintainance-josefausto;2015-07-01;MAI
+1356;Maintenance-jordan-auto-1356;2015-09-15;MAI
+430;Maintainance-fernando;2015-07-10;MAI
+1366;Pruning-hugo-auto-1366;2015-09-15;PRU
+433;Maintainance-luis,josealvarado;2015-07-07;MAI
+434;Maintainance-johnny;2015-07-02;MAI
+435;Maintainance-josealvarado;2015-07-06;MAI
+436;Maintenance-josealvarado;2015-07-03;MAI
+437;Maintainance-aaron;2015-07-10;MAI
+438;Maintainance-luisruiz;2015-07-09;MAI
+439;Maintainance-roberto,alexis;2015-07-09;MAI
+440;Initial Clean Up- Antonio and Edward;2015-07-07;MAI
+441;Maintainance-jtrewin,dimitris;2015-07-06;MAI
+442;Maintainance-johnny;2015-07-06;MAI
+443;Maintainance-johnny;2015-07-07;MAI
+444;Maintainance-alfredo;2015-07-09;MAI
+445;Maintainance-aaron;2015-07-09;MAI
+446;Maintainance-josealvarado;2015-07-10;MAI
+447;Maintainance-josefausto;2015-07-04;MAI
+448;Maintainance-marcell;2015-07-09;MAI
+449;Maintainance-aaron,luis;2015-07-08;MAI
+450;Maintainance-alfredo;2015-07-08;MAI
+451;Maintainance-johnny;2015-07-08;MAI
+452;Maintainance-ernesto;2015-07-09;MAI
+453;Maintainance-jtrewin,carlosmunguia;2015-07-09;MAI
+455;Maintainance-josefausto,eliasloza;2015-07-09;MAI
+456;Maintainance-josefausto;2015-07-10;MAI
+457;Maintainance-jtrewin,carlosmunguia;2015-07-08;MAI
+458;Maintainance-marcell;2015-07-10;MAI
+459;Maintainance-jtrewin,carlosmunguia;2015-07-10;MAI
+1376;Maintenance-jose-auto-1376;2015-09-16;MAI
+462;Maintainance-josealvarado;2015-07-14;MAI
+468;Maintainance-josealvarado;2015-07-13;MAI
+469;Maintainance-ernesto;2015-07-13;MAI
+472;Maintainance-roberto;2015-07-13;MAI
+473;Maintainance-aaron;2015-07-13;MAI
+474;Maintainance-fernando,mario;2015-07-13;MAI
+475;Maintainance-josefausto;2015-07-13;MAI
+476;Maintainance-marcell,ricardo;2015-07-13;MAI
+477;Maintainance-jtrewin,alfredo;2015-07-13;MAI
+478;Maintainance-roberto;2015-07-14;MAI
+479;Maintainance-johnny,marcell;2015-07-14;MAI
+481;Maintainance-aaron;2015-07-14;MAI
+482;Maintainance-luisruiz;2015-07-14;MAI
+483;Maintainance-carlosmunguia;2015-07-14;MAI
+484;Maintainance-jtrewin;2015-07-14;MAI
+491;[TEST] Oleksiy's Route;2015-07-13;MAI
+470;Maintainance-johnny;2015-07-13;MAI
+498;Maintenance  - Alfredo;2015-07-14;MAI
+467;Maintainance-carlosmunguia;2015-07-13;MAI
+471;Maintainance-luisruiz;2015-07-13;MAI
+1416;Pruning-daniel-auto-1416;2015-09-16;PRU
+1386;Maintenance-carlosmunguia,josetorres,luistorres-auto-1386;2015-09-17;MAI
+1396;Maintenance-fernando,ringomartinez-auto-1396;2015-09-17;MAI
+1406;Maintenance-roberto-auto-1406;2015-09-18;MAI
+1434;Maintenance-josetorres,luistorres-auto-1434;2015-09-21;MAI
+1443;Maintenance-josefernandez-auto-1443;2015-09-21;MAI
+1461;Maintenance-jonathansanchez-auto-1461;2015-09-23;MAI
+1470;Maintenance-marcell-auto-1470;2015-09-23;MAI
+1479;Maintenance-roberto-auto-1479;2015-09-23;MAI
+1497;Maintenance-giovanniservin-auto-1497;2015-09-25;MAI
+1506;Irrigation-devonoropeza,jesuspinedajr-auto-1506;2015-09-21;IRR
+1515;Project-jasonmontes-auto-1515;2015-09-24;PRO
+485;Maintainance-ernesto;2015-07-14;MAI
+480;Maintainance-josefausto;2015-07-14;MAI
+486;Maintainance-fernando;2015-07-14;MAI
+512;Maintainance-johnny;2015-07-15;MAI
+499;Maintainance-alfredo (old);2015-07-14;MAI
+1530;Maintenance-josetorres,luistorres-auto-1530;2015-09-28;MAI
+500;Maintenance-alfredo;2015-07-14;MAI
+1316;Pruning-elias,ramiro-auto-1316;2015-09-10;PRU
+509;Maintainance-jtrewin;2015-07-15;MAI
+510;Maintainance-alfredo;2015-07-15;MAI
+511;Maintainance-josefausto;2015-07-15;MAI
+513;Maintainance-luisruiz;2015-07-15;MAI
+514;Maintainance-aaron;2015-07-15;MAI
+515;Maintainance-carlosmunguia;2015-07-15;MAI
+518;Maintainance-robertp;2015-07-15;MAI
+517;Maintainance-fernando;2015-07-15;MAI
+516;Maintainance-marcell;2015-07-15;MAI
+1327;Maintenance-carlos,jose,luis-auto-1327;2015-09-14;MAI
+519;Maintainance-josealvarado;2015-07-15;MAI
+520;Maintainance-ernesto;2015-07-15;MAI
+521;Maintainance-josealvarado,ernesto;2015-07-15;MAI
+1337;Maintenance-jose-auto-1337;2015-09-14;MAI
+525;Maintainance-luisruiz;2015-07-16;MAI
+526;Maintainance-marcell,ricardo;2015-07-16;MAI
+527;Maintainance-aaron;2015-07-16;MAI
+523;Maintainance-jtrewin;2015-07-16;MAI
+528;Maintainance-josealvarado;2015-07-16;MAI
+530;Maintainance-roberto;2015-07-16;MAI
+531;Maintainance-fernando,mariomorales;2015-07-16;MAI
+532;Maintainance-johnny;2015-07-16;MAI
+533;Maintainance-ernesto;2015-07-16;MAI
+534;Maintainance-John;2015-07-17;MAI
+524;Maintainance-josefausto;2015-07-16;MAI
+529;Maintainance-carlosmunguia;2015-07-16;MAI
+538;Maintainance-Luis;2015-07-17;MAI
+539;Maintainance-Johnny;2015-07-17;MAI
+542;Maintainance-Roberto;2015-07-17;MAI
+543;Maintainance-Ernesto;2015-07-17;MAI
+545;Maintainance-Carlos;2015-07-17;MAI
+546;Maintainance-Aaron;2015-07-17;MAI
+1347;Maintenance-ernesto-auto-1347;2015-09-15;MAI
+547;Maintainance-Fernando;2015-07-17;MAI
+540;Maintainance-Jose Alvaro;2015-07-17;MAI
+541;Maintainance-Jose Fausto;2015-07-17;MAI
+544;Maintainance-Marcell;2015-07-17;MAI
+551;Maintainance-Carlos;2015-07-20;MAI
+552;Maintainance-John;2015-07-20;MAI
+554;Maintainance-Ernesto;2015-07-20;MAI
+555;Maintainance-Aaron;2015-07-20;MAI
+556;Maintainance-Luis,Marcell,Ricardo;2015-07-20;MAI
+557;Maintainance-Roberto;2015-07-20;MAI
+559;Maintainance-Jose Alvarado;2015-07-20;MAI
+560;Maintainance-Johnny;2015-07-20;MAI
+561;Maintainance-Fernando,Mario;2015-07-20;MAI
+562;Maintainance-Alfredo;2015-07-20;MAI
+564;Training-Abel;2015-07-20;MAI
+1367;Pruning-antonio,jason-auto-1367;2015-09-15;PRU
+553;Maintainance-Jose Fausto;2015-07-20;MAI
+606;Maintainance-Carlos,Ricardo;2015-07-22;MAI
+1377;Maintenance-ricardo-auto-1377;2015-09-16;MAI
+569;Maintainance-Alfredo;2015-07-21;MAI
+571;Maintainance-Carlos;2015-07-21;MAI
+573;Maintainance-John;2015-07-21;MAI
+574;Maintainance-Fernando;2015-07-21;MAI
+576;Maintainance-Johnny, Marcell;2015-07-21;MAI
+577;Maintainance-Luis,Ricardo;2015-07-21;MAI
+578;Maintainance-Roberto;2015-07-21;MAI
+579;Maintainance-Aaron;2015-07-21;MAI
+580;Maintainance-Jose Alvarado;2015-07-21;MAI
+575;Maintainance-Ernesto, Alexis;2015-07-21;MAI
+637;Maintainance-Marcell;2015-07-24;MAI
+638;Maintainance-Ricardo;2015-07-24;MAI
+581;Maintainance-Jose Fausto;2015-07-21;MAI
+582;Training-Abel;2015-07-21;MAI
+1417;Irrigation-devon,jesus-auto-1417;2015-09-16;IRR
+593;Maintainance-John;2015-07-22;MAI
+594;Maintainance-Alfredo;2015-07-22;MAI
+595;Maintainance-Jose Fausto;2015-07-22;MAI
+596;Maintainance-Johnny;2015-07-22;MAI
+598;Maintainance-Luis;2015-07-22;MAI
+599;Maintainance-Aaron;2015-07-22;MAI
+600;Maintainance-Marcell;2015-07-22;MAI
+601;Maintainance-Fernando;2015-07-22;MAI
+602;Maintainance-Roberto;2015-07-22;MAI
+603;Maintainance-Jose Alvarado;2015-07-22;MAI
+604;Maintainance-Ernesto;2015-07-22;MAI
+608;Training-Abel,trainees;2015-07-22;MAI
+611;Maintainance-Jose Fausto;2015-07-23;MAI
+612;Maintainance-John;2015-07-23;MAI
+613;Maintainance-Luis,Aaron;2015-07-23;MAI
+614;Maintainance-Marcell;2015-07-23;MAI
+615;Maintainance-Alfredo;2015-07-23;MAI
+616;Maintainance-Jose Alvarado;2015-07-23;MAI
+617;Maintainance-Carlos;2015-07-23;MAI
+618;Maintainance-Fernando;2015-07-23;MAI
+619;Maintainance-Johnny;2015-07-23;MAI
+620;Maintainance-Roberto;2015-07-23;MAI
+621;Maintainance-Ernesto;2015-07-23;MAI
+625;Maintainance-John;2015-07-24;MAI
+626;Maintainance-Luis;2015-07-24;MAI
+627;Maintainance-Aaron;2015-07-24;MAI
+1387;Maintenance-aaron-auto-1387;2015-09-17;MAI
+1397;Maintenance-johnny-auto-1397;2015-09-17;MAI
+1407;Maintenance-johnny-auto-1407;2015-09-18;MAI
+1426;Irrigation-jesuspineda-auto-1426;2015-09-17;IRR
+1435;Maintenance-giovanniservin-auto-1435;2015-09-21;MAI
+1444;Maintenance-jordanforbes,roberto-auto-1444;2015-09-21;MAI
+1453;Maintenance-ernesto-auto-1453;2015-09-22;MAI
+1462;Maintenance-josetorres,luistorres-auto-1462;2015-09-23;MAI
+1471;Maintenance-scottbramer-auto-1471;2015-09-23;MAI
+1480;Maintenance-marcell-auto-1480;2015-09-24;MAI
+1489;Maintenance-donovancaruth-auto-1489;2015-09-24;MAI
+1498;Maintenance-fernando,ringomartinez-auto-1498;2015-09-25;MAI
+1507;Irrigation-jesuspineda-auto-1507;2015-09-21;IRR
+1516;Project-jasonmontes-auto-1516;2015-09-25;PRO
+1524;Pruning-eliasloza,ramiro-auto-1524;2015-09-24;PRU
+645;Maintainance-Carlos;2015-07-27;MAI
+629;Maintainance-Alfredo;2015-07-24;MAI
+630;Maintainance-Johnny;2015-07-24;MAI
+631;Maintainance-Carlos;2015-07-24;MAI
+632;Maintainance-Jose Alvarado;2015-07-24;MAI
+633;Maintainance-Fernando;2015-07-24;MAI
+635;Maintainance-Roberto;2015-07-24;MAI
+636;Maintainance-Ernesto;2015-07-24;MAI
+1317;Pruning-hugo,mario-auto-1317;2015-09-10;PRU
+622;Maintainance-Ricardo;2015-07-23;MAI
+1531;Maintenance-giovanniservin-auto-1531;2015-09-28;MAI
+1328;Maintenance-donovan-auto-1328;2015-09-14;MAI
+1539;Maintenance-josefernandez-auto-1539;2015-09-28;MAI
+1338;Maintenance-roberto-auto-1338;2015-09-14;MAI
+634;Maintainance-Jose Fausto;2015-07-24;MAI
+646;Maintainance-John;2015-07-27;MAI
+648;Maintainance-Ernesto;2015-07-27;MAI
+650;Maintainance-Aaron;2015-07-27;MAI
+651;Maintainance-Luis;2015-07-27;MAI
+652;Maintainance-Roberto;2015-07-27;MAI
+653;Maintainance-Jose Alvarado;2015-07-27;MAI
+654;Maintainance-Johnny;2015-07-27;MAI
+657;Maintainance-Marcell,Jason,Ricardo;2015-07-27;MAI
+1348;Maintenance-johnny-auto-1348;2015-09-15;MAI
+663;Training/QC-Abel;2015-07-27;MAI
+1358;Maintenance-aaron-auto-1358;2015-09-15;MAI
+1550;Maintenance-donovancaruth-auto-1550;2015-09-29;MAI
+647;Maintainance-Jose Fausto;2015-07-27;MAI
+655;Maintainance-Fernando,David;2015-07-27;MAI
+656;Maintainance-Alfredo;2015-07-27;MAI
+665;Maintainance-John Trewin;2015-07-28;MAI
+667;Maintainance-Fernando,Raul;2015-07-28;MAI
+668;Maintainance-Ernesto;2015-07-28;MAI
+669;Maintainance-Johnny,Ricardo;2015-07-28;MAI
+1368;Pruning-daniel-auto-1368;2015-09-15;PRU
+674;Maintainance-Luis,Marcell,Jason;2015-07-28;MAI
+675;Maintainance-Alfredo;2015-07-28;MAI
+676;Maintainance-Carlos;2015-07-28;MAI
+677;Maintainance-Roberto;2015-07-28;MAI
+678;Maintainance-Aaron,Alexis;2015-07-28;MAI
+679;Maintainance-Jose Alvarado;2015-07-28;MAI
+680;Maintainance-Jose Fausto;2015-07-28;MAI
+1378;Maintenance-aaron-auto-1378;2015-09-16;MAI
+1555;Maintenance-roberto-auto-1555;2015-09-29;MAI
+751;Maintainance-Luis;2015-08-03;MAI
+1560;Maintenance-jordanforbes-auto-1560;2015-09-30;MAI
+1565;Maintenance-aaron-auto-1565;2015-09-30;MAI
+1570;Maintenance-roberto-auto-1570;2015-09-30;MAI
+691;Maintainance-Carlos;2015-07-29;MAI
+692;Maintainance-John;2015-07-29;MAI
+693;Maintainance-Alfredo;2015-07-29;MAI
+694;Maintainance-Aaron;2015-07-29;MAI
+695;Maintainance-Luis;2015-07-29;MAI
+696;Maintainance-Johnny;2015-07-29;MAI
+697;Maintainance-Fernando,Raul;2015-07-29;MAI
+698;Maintainance-Roberto,Ricardo;2015-07-29;MAI
+699;Maintainance-Marcell,Jason;2015-07-29;MAI
+700;Maintainance-Jose Alvarado;2015-07-29;MAI
+701;Maintainance-Ernesto;2015-07-29;MAI
+702;Maintainance-Jose Fausto,Alexis;2015-07-29;MAI
+752;Maintainance-Roberto;2015-08-03;MAI
+706;Maintainance-Jose Fausto;2015-07-30;MAI
+707;Maintainance-Carlos;2015-07-30;MAI
+708;Maintainance-John;2015-07-30;MAI
+709;Maintainance-Luis,Aaron;2015-07-30;MAI
+710;Maintainance-Marcell,Jason;2015-07-30;MAI
+711;Maintainance-Ernesto;2015-07-30;MAI
+712;Maintainance-Alfredo;2015-07-30;MAI
+713;Maintainance-Jose Alvarado;2015-07-30;MAI
+714;Maintainance-Ricardo;2015-07-30;MAI
+715;Maintainance-Fernando,Raul;2015-07-30;MAI
+716;Maintainance-Johnny,David;2015-07-30;MAI
+717;Maintainance-Roberto;2015-07-30;MAI
+1573;Maintenance-jonathansanchez-auto-1573;2015-10-01;MAI
+1418;Irrigation-jesus-auto-1418;2015-09-16;IRR
+754;Maintainance-Fernando,Noel;2015-08-03;MAI
+726;Maintainance-Carlos;2015-07-31;MAI
+727;Maintainance-John;2015-07-31;MAI
+728;Maintainance-Johnny;2015-07-31;MAI
+729;Maintainance-Aaron;2015-07-31;MAI
+730;Maintainance-Jose Alvarado;2015-07-31;MAI
+732;Maintainance-Fernando;2015-07-31;MAI
+733;Maintainance-Jose Fausto;2015-07-31;MAI
+734;Maintainance-Ernesto;2015-07-31;MAI
+735;Maintainance-Ricardo;2015-07-31;MAI
+736;Maintainance-Roberto;2015-07-31;MAI
+737;Maintainance-Alfredo;2015-07-31;MAI
+738;Maintainance-Marcell;2015-07-31;MAI
+731;Maintainance-Luis;2015-07-31;MAI
+786;Maintainance-Ernesto;2015-08-05;MAI
+743;Maintainance-John;2015-08-03;MAI
+744;Maintainance-Alfredo,Raul;2015-08-03;MAI
+746;Maintainance-Ernesto;2015-08-03;MAI
+747;Maintainance-Jose Alvarado;2015-08-03;MAI
+748;Maintainance-Ricardo;2015-08-03;MAI
+750;Maintainance-Aaron;2015-08-03;MAI
+745;Maintainance-Jose Fausto,Alexis;2015-08-03;MAI
+753;Maintainance-Johnny;2015-08-03;MAI
+749;Maintainance-Marcell;2015-08-03;MAI
+761;Maintainance-Alfredo;2015-08-04;MAI
+1388;Maintenance-josefernandez-auto-1388;2015-09-17;MAI
+1398;Maintenance-carlosmunguia,josetorres,luistorres-auto-1398;2015-09-18;MAI
+1408;Maintenance-marcell-auto-1408;2015-09-18;MAI
+1427;Pruning-unassigned-auto-1427;2015-09-17;PRU
+1436;Maintenance-alfredo-auto-1436;2015-09-21;MAI
+1445;Maintenance-fernando,ringomartinez-auto-1445;2015-09-21;MAI
+1454;Maintenance-donovancaruth-auto-1454;2015-09-22;MAI
+1463;Maintenance-alfredo-auto-1463;2015-09-23;MAI
+1472;Maintenance-ernesto-auto-1472;2015-09-23;MAI
+1481;Maintenance-scottbramer-auto-1481;2015-09-24;MAI
+1490;Maintenance-josetorres,luistorres-auto-1490;2015-09-25;MAI
+1499;Maintenance-roberto-auto-1499;2015-09-25;MAI
+1508;Project-jasonmontes-auto-1508;2015-09-22;PRO
+1517;Pruning-eliasloza,ramiro-auto-1517;2015-09-23;PRU
+1525;Irrigation-jesuspineda-auto-1525;2015-09-24;IRR
+763;Maintainance-John;2015-08-04;MAI
+764;Maintainance-Fernando,Noel;2015-08-04;MAI
+766;Maintainance-Ernesto;2015-08-04;MAI
+767;Maintainance-Johnny,Ricardo;2015-08-04;MAI
+769;Maintainance-Luis;2015-08-04;MAI
+770;Maintainance-Jose Fausto;2015-08-04;MAI
+771;Maintainance-Roberto;2015-08-04;MAI
+773;Maintainance-Aaron;2015-08-04;MAI
+1318;Pruning-antonio,jason-auto-1318;2015-09-10;PRU
+777;Maintainance-Carlos,Raul;2015-08-05;MAI
+778;Maintainance-John;2015-08-05;MAI
+768;Maintainance-Marcell;2015-08-04;MAI
+779;Maintainance-Alfredo;2015-08-05;MAI
+765;Maintainance-Carlos,Raul;2015-08-04;MAI
+780;Maintainance-Johnny;2015-08-05;MAI
+781;Maintainance-Jose Fausto;2015-08-05;MAI
+782;Maintainance-Luis;2015-08-05;MAI
+783;Maintainance-Aaron;2015-08-05;MAI
+784;Maintainance-Marcell,Jason;2015-08-05;MAI
+785;Maintainance-Jose Alvarado;2015-08-05;MAI
+789;Maintainance-Roberto,Ricardo;2015-08-05;MAI
+1532;Maintenance-alfredo-auto-1532;2015-09-28;MAI
+1329;Maintenance-alfredo-auto-1329;2015-09-14;MAI
+787;Maintainance-Fernando,Noel;2015-08-05;MAI
+797;Maintainance-Alfredo;2015-08-06;MAI
+1540;Maintenance-roberto-auto-1540;2015-09-28;MAI
+1339;Maintenance-fernando,ringo-auto-1339;2015-09-14;MAI
+799;Maintainance-Luis,Aaron;2015-08-06;MAI
+800;Maintainance-John;2015-08-06;MAI
+801;Maintainance-Marcell,Jason;2015-08-06;MAI
+1349;Maintenance-scott-auto-1349;2015-09-15;MAI
+1546;Maintenance-giovanniservin-auto-1546;2015-09-29;MAI
+802;Maintainance-Jose Alvarado;2015-08-06;MAI
+803;Maintainance-Ernesto;2015-08-06;MAI
+804;Maintainance-Jose F.;2015-08-06;MAI
+805;Maintainance-Ricardo;2015-08-06;MAI
+806;Maintainance-Roberto;2015-08-06;MAI
+807;Maintainance-Fernando,Noel;2015-08-06;MAI
+808;Maintainance-Johnny;2015-08-06;MAI
+869;Maintenance - Jose Fausto & Ricardo;2015-08-12;MAI
+798;Maintainance-Carlos,Raul;2015-08-06;MAI
+841;Maintainance-Luis;2015-08-10;MAI
+1369;Irrigation-jesus-auto-1369;2015-09-15;IRR
+814;Maintainance-John;2015-08-07;MAI
+816;Maintainance-Alfredo;2015-08-07;MAI
+817;Maintainance-Aaron;2015-08-07;MAI
+818;Maintainance-Jose Alvarado;2015-08-07;MAI
+819;Maintainance-Jose Fausto;2015-08-07;MAI
+820;Maintainance-Luis;2015-08-07;MAI
+822;Maintainance-Roberto;2015-08-07;MAI
+823;Maintainance-Johnny;2015-08-07;MAI
+824;Maintainance-Ricardo;2015-08-07;MAI
+825;Maintainance-Ernesto;2015-08-07;MAI
+1551;Maintenance-scottbramer-auto-1551;2015-09-29;MAI
+1379;Maintenance-marcell-auto-1379;2015-09-16;MAI
+1556;Maintenance-aaron-auto-1556;2015-09-29;MAI
+815;Maintainance-Carlos,Raul;2015-08-07;MAI
+821;Maintainance-Fernando,Noel;2015-08-07;MAI
+826;Maintainance-Marcell;2015-08-07;MAI
+833;Maintainance-John;2015-08-10;MAI
+836;Maintainance-Ernesto;2015-08-10;MAI
+837;Maintainance-Jose Alvarado;2015-08-10;MAI
+840;Maintainance-Aaron;2015-08-10;MAI
+842;Maintainance-Roberto;2015-08-10;MAI
+844;Maintainance-Johnny;2015-08-10;MAI
+834;Maintainance-Carlos;2015-08-10;MAI
+843;Maintainance-Fernando;2015-08-10;MAI
+835;Maintainance-Jose Fausto;2015-08-10;MAI
+839;Maintainance-Marcell;2015-08-10;MAI
+1561;Maintenance-donovancaruth-auto-1561;2015-09-30;MAI
+1566;Maintenance-marcell-auto-1566;2015-09-30;MAI
+838;Maintainance-Ricardo;2015-08-10;MAI
+870;Maintenance - Luis;2015-08-12;MAI
+1574;Maintenance-aaron-auto-1574;2015-10-01;MAI
+878;Route 1;2015-08-10;MAI
+858;Maintenance - Carlos & Raul;2015-08-11;MAI
+859;Maintenance - Fernando & Jason;2015-08-11;MAI
+848;Maintenance - John;2015-08-11;MAI
+849;Maintenance - Marcell & Noel;2015-08-11;MAI
+852;Maintenance - Abel;2015-08-11;MAI
+856;Maintenance - Aaron;2015-08-11;MAI
+845;Maintenance - Alfredo;2015-08-11;MAI
+850;Maintenance - Ernesto;2015-08-11;MAI
+854;Maintenance - Jose Fausto;2015-08-11;MAI
+862;Maintenance - Roberto;2015-08-11;MAI
+871;Maintenance - Aaron;2015-08-12;MAI
+860;Maintenance - Johnny & Luis;2015-08-11;MAI
+861;Maintenance - Ricardo;2015-08-11;MAI
+872;Maintenance - Marcell & Noel;2015-08-12;MAI
+865;Maintenance - Carlos & Raul;2015-08-12;MAI
+866;Maintenance - John;2015-08-12;MAI
+868;Maintenance - Johnny;2015-08-12;MAI
+875;Maintenance - Fernando & Jason;2015-08-12;MAI
+876;Maintenance-Roberto;2015-08-12;MAI
+867;Maintenance - Alfredo;2015-08-12;MAI
+873;Maintenance - Abel & Crew;2015-08-12;MAI
+874;Maintenance - Ernesto;2015-08-12;MAI
+898;Maintenance - Jose Fausto;2015-08-13;MAI
+891;Maintenance - Alfredo;2015-08-13;MAI
+893;Maintenance - Luis & Aaron;2015-08-13;MAI
+894;Maintenance - John;2015-08-13;MAI
+895;Maintenance - Marcell & Noel;2015-08-13;MAI
+1389;Maintenance-marcell-auto-1389;2015-09-17;MAI
+1399;Maintenance-alfredo-auto-1399;2015-09-18;MAI
+1409;Maintenance-ricardogarcia-auto-1409;2015-09-18;MAI
+1428;Pruning-antonio,jasonmontes-auto-1428;2015-09-18;PRU
+1437;Maintenance-ernesto-auto-1437;2015-09-21;MAI
+1446;Maintenance-donovancaruth-auto-1446;2015-09-21;MAI
+1455;Maintenance-scottbramer-auto-1455;2015-09-22;MAI
+1464;Maintenance-jordanforbes-auto-1464;2015-09-23;MAI
+1473;Maintenance-fernando,ringomartinez-auto-1473;2015-09-23;MAI
+1482;Maintenance-daniel-auto-1482;2015-09-24;MAI
+1491;Maintenance-alfredo-auto-1491;2015-09-25;MAI
+1500;Maintenance-donovancaruth-auto-1500;2015-09-25;MAI
+1509;Project-jasonmontes-auto-1509;2015-09-23;PRO
+1518;Irrigation-devonoropeza,jesuspinedajr-auto-1518;2015-09-23;IRR
+1492;Maintenance-aaron,hugohernandez-auto-1492;2015-09-25;MAI
+1533;Maintenance-ernesto-auto-1533;2015-09-28;MAI
+896;Maintenance - Abel & Crew;2015-08-13;MAI
+897;Maintenance - Ernesto;2015-08-13;MAI
+899;Maintenance - Ricardo;2015-08-13;MAI
+900;Maintenance - Roberto;2015-08-13;MAI
+1330;Maintenance-ernesto-auto-1330;2015-09-14;MAI
+901;Maintenance - Fernando & Jason;2015-08-13;MAI
+892;Maintenance - Carlos & Raul;2015-08-13;MAI
+902;Maintenance - Johnny;2015-08-13;MAI
+910;Maintainance-Carlos;2015-08-14;MAI
+1340;Maintenance-johnny-auto-1340;2015-09-14;MAI
+1541;Maintenance-ringomartinez-auto-1541;2015-09-28;MAI
+909;Maintenance - John;2015-08-14;MAI
+1350;Maintenance-jose-auto-1350;2015-09-15;MAI
+927;Spray-Nancy,Jason;2015-08-14;MAI
+919;Maintenance - Johnny;2015-08-14;MAI
+911;Maintenance - Alfredo;2015-08-14;MAI
+913;Maintenance - Aaron;2015-08-14;MAI
+914;Maintenance - Scott Bramer;2015-08-14;MAI
+915;Maintenance - Jose Fausto;2015-08-14;MAI
+916;Maintenance - Luis;2015-08-14;MAI
+917;Maintenance - Fernando;2015-08-14;MAI
+918;Maintenance - Roberto;2015-08-14;MAI
+920;Maintenance - Ricardo;2015-08-14;MAI
+921;Maintenance - Ernesto;2015-08-14;MAI
+922;Maintenance - Marcell;2015-08-14;MAI
+1547;Maintenance-ringomartinez-auto-1547;2015-09-29;MAI
+1360;Pruning-ramiro-auto-1360;2015-09-14;PRU
+931;Maintenance - John & Jose T.;2015-08-17;MAI
+932;Maintenance - Carlos, Manuel L., Abel, & Noel;2015-08-17;MAI
+933;Maintenance - Alfredo & Jose Fausto;2015-08-17;MAI
+934;Maintenance - Ernesto;2015-08-17;MAI
+935;Maintenance - Scott;2015-08-17;MAI
+936;Maintenance - Ricardo;2015-08-17;MAI
+937;Maintenance - Marcell;2015-08-17;MAI
+938;Maintenance - Aaron;2015-08-17;MAI
+939;Maintenance - Luis;2015-08-17;MAI
+940;Maintenance - Roberto;2015-08-17;MAI
+943;Maintenance - Johnny;2015-08-17;MAI
+1370;Irrigation-devon,jesus-auto-1370;2015-09-15;IRR
+1552;Maintenance-josefernandez-auto-1552;2015-09-29;MAI
+1380;Maintenance-scott-auto-1380;2015-09-16;MAI
+1557;Maintenance-jonathansanchez-auto-1557;2015-09-30;MAI
+948;Maintainance-Alfredo;2015-08-18;MAI
+951;Maintainance-John,Jose Torres;2015-08-18;MAI
+952;Maintainance-Marcell;2015-08-18;MAI
+953;Maintainance-Luis;2015-08-18;MAI
+955;Maintainance-Ernesto;2015-08-18;MAI
+956;Maintainance-Johnny;2015-08-18;MAI
+957;Maintainance-Scott;2015-08-18;MAI
+958;Maintainance-Ricardo;2015-08-18;MAI
+959;Maintainance-Jose Fausto;2015-08-18;MAI
+961;Maintainance-Roberto;2015-08-18;MAI
+962;Maintainance-Aaron;2015-08-18;MAI
+1562;Maintenance-giovanniservin-auto-1562;2015-09-30;MAI
+1007;Maintainance-jtrewin,josetorres;2015-08-21;MAI
+949;Maintainance-Carlos,Abel,Noel;2015-08-18;MAI
+950;Maintainance-Fernando;2015-08-18;MAI
+969;Maintainance-carlosmunguia,abel,noel;2015-08-19;MAI
+970;Maintainance-jtrewin,josetorres;2015-08-19;MAI
+971;Maintainance-alfredo;2015-08-19;MAI
+972;Maintainance-josefausto;2015-08-19;MAI
+973;Maintainance-johnny;2015-08-19;MAI
+974;Maintainance-luisruiz;2015-08-19;MAI
+975;Maintainance-ricardogarcia;2015-08-19;MAI
+976;Maintainance-aaron;2015-08-19;MAI
+977;Maintainance-marcell;2015-08-19;MAI
+978;Maintainance-scottbramer;2015-08-19;MAI
+979;Maintainance-ernesto;2015-08-19;MAI
+980;Maintainance-fernando;2015-08-19;MAI
+981;Maintainance-roberto;2015-08-19;MAI
+1571;Maintenance-alfredo-auto-1571;2015-10-01;MAI
+1567;Maintenance-lancebreyer,scottbramer-auto-1567;2015-09-30;MAI
+988;Maintainance-alfredo;2015-08-20;MAI
+989;Maintainance-carlosmunguia,abel,noelkou;2015-08-20;MAI
+991;Maintainance-aaron;2015-08-20;MAI
+992;Maintainance-luisruiz;2015-08-20;MAI
+993;Maintainance-jtrewin,josetorres;2015-08-20;MAI
+994;Maintainance-marcell;2015-08-20;MAI
+995;Maintainance-scottbramer;2015-08-20;MAI
+996;Maintainance-ernesto;2015-08-20;MAI
+997;Maintainance-josefausto;2015-08-20;MAI
+998;Maintainance-ricardogarcia;2015-08-20;MAI
+999;Maintainance-roberto;2015-08-20;MAI
+1000;Maintainance-fernando;2015-08-20;MAI
+1001;Maintainance-johnny;2015-08-20;MAI
+1008;Maintainance-carlosmunguia;2015-08-21;MAI
+1009;Maintainance-alfredo;2015-08-21;MAI
+1010;Maintainance-aaron;2015-08-21;MAI
+1011;Maintainance-luisruiz;2015-08-21;MAI
+1012;Maintainance-scottbramer;2015-08-21;MAI
+1013;Maintainance-josefausto;2015-08-21;MAI
+1014;Maintainance-abel,noelkou;2015-08-21;MAI
+1015;Maintainance-fernando;2015-08-21;MAI
+1016;Maintainance-roberto;2015-08-21;MAI
+1017;Maintainance-johnny;2015-08-21;MAI
+1018;Maintainance-marcell,eliasloza;2015-08-21;MAI
+1019;Maintainance-ernesto;2015-08-21;MAI
+1020;Maintainance-ricardogarcia;2015-08-21;MAI
+1035;Maintainance-ernesto;2015-08-24;MAI
+1036;Maintainance-scottbramer;2015-08-24;MAI
+1390;Maintenance-scottbramer-auto-1390;2015-09-17;MAI
+1400;Maintenance-aaron-auto-1400;2015-09-18;MAI
+1410;Maintenance-abel-auto-1410;2015-09-18;MAI
+1429;Pruning-daniel-auto-1429;2015-09-18;PRU
+1438;Maintenance-jonathansanchez-auto-1438;2015-09-21;MAI
+1447;Maintenance-josetorres,luistorres-auto-1447;2015-09-22;MAI
+1456;Maintenance-josefernandez-auto-1456;2015-09-22;MAI
+1465;Maintenance-donovancaruth-auto-1465;2015-09-23;MAI
+1474;Maintenance-alfredo-auto-1474;2015-09-24;MAI
+1483;Maintenance-giovanniservin-auto-1483;2015-09-24;MAI
+1501;Maintenance-marcell-auto-1501;2015-09-25;MAI
+1519;Irrigation-jesuspineda-auto-1519;2015-09-23;IRR
+1038;Maintainance-ricardogarcia;2015-08-24;MAI
+1534;Maintenance-jonathansanchez-auto-1534;2015-09-28;MAI
+1331;Maintenance-jordan-auto-1331;2015-09-14;MAI
+1542;Maintenance-donovancaruth,jordanforbes-auto-1542;2015-09-28;MAI
+1032;Maintainance-carlosmunguia;2015-08-24;MAI
+1034;Maintainance-alfredo;2015-08-24;MAI
+1039;Maintainance-marcell;2015-08-24;MAI
+1040;Maintainance-aaron;2015-08-24;MAI
+1041;Maintainance-luisruiz,josefausto;2015-08-24;MAI
+1042;Maintainance-roberto;2015-08-24;MAI
+1043;Maintainance-fernando;2015-08-24;MAI
+941;Maintenance - Fernando;2015-08-17;MAI
+1033;Maintainance-noelkou;2015-08-24;MAI
+1047;Maintainance-carlosmunguia;2015-08-25;MAI
+1048;Maintainance-alfredo;2015-08-25;MAI
+1049;Maintainance-noelkou,abel;2015-08-25;MAI
+1050;Maintainance-fernando;2015-08-25;MAI
+1051;Maintainance-josetorres;2015-08-25;MAI
+1052;Maintainance-marcell;2015-08-25;MAI
+1053;Maintainance-ernesto;2015-08-25;MAI
+1054;Maintainance-johnny;2015-08-25;MAI
+1055;Maintainance-scottbramer;2015-08-25;MAI
+1057;Maintainance-ricardogarcia;2015-08-25;MAI
+1058;Maintainance-josefausto;2015-08-25;MAI
+1059;Maintainance-roberto;2015-08-25;MAI
+1063;Maintainance-alfredo;2015-08-26;MAI
+1060;Maintainance-aaron;2015-08-25;MAI
+1062;Maintainance-josetorres;2015-08-26;MAI
+1056;Maintainance-Abel;2015-08-25;MAI
+1044;Maintainance-johnny;2015-08-24;MAI
+1064;Maintainance-josefausto;2015-08-26;MAI
+1065;Maintainance-johnny;2015-08-26;MAI
+1066;Maintainance-noelkou;2015-08-26;MAI
+1068;Maintainance-ricardogarcia;2015-08-26;MAI
+1069;Maintainance-aaron;2015-08-26;MAI
+1070;Maintainance-marcell;2015-08-26;MAI
+1071;Maintainance-scottbramer;2015-08-26;MAI
+1072;Maintainance-ernesto;2015-08-26;MAI
+1073;Maintainance-fernando;2015-08-26;MAI
+1074;Maintainance-roberto;2015-08-26;MAI
+1341;Maintenance-carlos,jose,luis-auto-1341;2015-09-15;MAI
+1061;Maintainance-carlosmunguia;2015-08-26;MAI
+1351;Maintenance-ricardo-auto-1351;2015-09-15;MAI
+1361;Pruning-elias,hugo-auto-1361;2015-09-14;PRU
+1082;Maintainance-alfredo;2015-08-27;MAI
+1083;Maintainance-carlosmunguia;2015-08-27;MAI
+1084;Maintainance-aaron;2015-08-27;MAI
+1087;Maintainance-marcell;2015-08-27;MAI
+1089;Maintainance-scottbramer;2015-08-27;MAI
+1090;Maintainance-ernesto;2015-08-27;MAI
+1091;Maintainance-josefausto;2015-08-27;MAI
+1092;Maintainance-ricardogarcia;2015-08-27;MAI
+1093;Maintainance-roberto;2015-08-27;MAI
+1094;Maintainance-fernando;2015-08-27;MAI
+1095;Maintainance-josetorres;2015-08-28;MAI
+1096;Maintainance-johnny;2015-08-27;MAI
+1097;Maintainance-carlosmunguia;2015-08-28;MAI
+1098;Maintainance-alfredo;2015-08-28;MAI
+1099;Maintainance-aaron;2015-08-28;MAI
+1101;Maintainance-scottbramer;2015-08-28;MAI
+1102;Maintainance-josefausto;2015-08-28;MAI
+1103;Maintainance-abel,noelkou;2015-08-28;MAI
+1104;Maintainance-fernando;2015-08-28;MAI
+1105;Maintainance-roberto;2015-08-28;MAI
+1106;Maintainance-johnny;2015-08-28;MAI
+1107;Maintainance-marcell;2015-08-28;MAI
+1108;Maintainance-ernesto;2015-08-28;MAI
+1109;Maintainance-ricardogarcia;2015-08-28;MAI
+1155;Maintainance-josefernandez;2015-09-01;MAI
+1100;Maintainance-jordan,manuel;2015-08-28;MAI
+1128;Maintainance-josetorres,luistorres;2015-08-31;MAI
+1067;Maintainance-jordan;2015-08-26;MAI
+1129;Maintainance-carlosmunguia;2015-08-31;MAI
+1130;Maintainance-noelkou;2015-08-31;MAI
+1131;Maintainance-alfredo;2015-08-31;MAI
+1371;Maintenance-carlos,jose,luis-auto-1371;2015-09-16;MAI
+1381;Maintenance-ernesto-auto-1381;2015-09-16;MAI
+1088;Maintainance-noelkou,manuellopez;2015-08-27;MAI
+1132;Maintainance-ernesto;2015-08-31;MAI
+1086;Maintainance-josetorres,donovan;2015-08-27;MAI
+1085;Maintainance-jordan,abel;2015-08-27;MAI
+1134;Maintainance-scottbramer;2015-08-31;MAI
+1135;Maintainance-ricardogarcia;2015-08-31;MAI
+1136;Maintainance-marcell;2015-08-31;MAI
+1139;Maintainance-roberto;2015-08-31;MAI
+1140;Maintainance-fernando;2015-08-31;MAI
+1156;Maintainance-ricardogarcia,donovancaruth;2015-09-01;MAI
+1158;Maintainance-roberto;2015-09-01;MAI
+1031;Maintainance-josetorres;2015-08-24;MAI
+1137;Maintainance-aaron,manuellopez;2015-08-31;MAI
+1141;Maintainance-johnny,donovancaruth;2015-08-31;MAI
+1133;Maintainance-abel,ringo;2015-08-31;MAI
+1159;Maintainance-aaron;2015-09-01;MAI
+1138;Maintainance-jordan,josefernandez;2015-08-31;MAI
+1160;Maintainance-carlosmunguia;2015-09-02;MAI
+1405;Maintenance-fernando,ringomartinez-auto-1405;2015-09-18;MAI
+1425;Pruning-devonoropeza,jesuspinedajr-auto-1425;2015-09-17;PRU
+1488;Maintenance-fernando,ringomartinez-auto-1488;2015-09-24;MAI
+1391;Maintenance-abel-auto-1391;2015-09-17;MAI
+1401;Maintenance-josefernandez-auto-1401;2015-09-18;MAI
+1411;Maintenance-ernesto-auto-1411;2015-09-18;MAI
+1421;Pruning-eliasloza,ramiro-auto-1421;2015-09-17;PRU
+1430;Pruning-hugohernandez-auto-1430;2015-09-18;PRU
+1439;Maintenance-scottbramer-auto-1439;2015-09-21;MAI
+1448;Maintenance-alfredo-auto-1448;2015-09-22;MAI
+1457;Maintenance-ricardogarcia-auto-1457;2015-09-22;MAI
+1466;Maintenance-giovanniservin-auto-1466;2015-09-23;MAI
+1475;Maintenance-josetorres,luistorres-auto-1475;2015-09-24;MAI
+1484;Maintenance-ernesto-auto-1484;2015-09-24;MAI
+1493;Maintenance-josefernandez-auto-1493;2015-09-25;MAI
+1502;Maintenance-ricardogarcia-auto-1502;2015-09-25;MAI
+1511;Pruning-ramiro-auto-1511;2015-09-22;PRU
+1321;Pruning-devon,jesus-auto-1321;2015-09-11;PRU
+1535;Maintenance-scottbramer-auto-1535;2015-09-28;MAI
+1148;Maintainance-alfredo,carlosmunguia;2015-09-01;MAI
+1149;Maintainance-noelkou,fernando;2015-09-01;MAI
+1150;Maintainance-josetorres,luistorres;2015-09-01;MAI
+1151;Maintainance-marcell;2015-09-01;MAI
+1152;Maintainance-ernesto;2015-09-01;MAI
+1153;Maintainance-johnny;2015-09-01;MAI
+1161;Maintainance-josetorres,luistorres;2015-09-02;MAI
+1162;Maintainance-alfredo;2015-09-02;MAI
+1164;Maintainance-johnny;2015-09-02;MAI
+1165;Maintainance-noelkou;2015-09-02;MAI
+1166;Maintainance-josefernandez;2015-09-02;MAI
+1167;Maintainance-ricardogarcia;2015-09-02;MAI
+1168;Maintainance-aaron;2015-09-02;MAI
+1171;Maintainance-ernesto;2015-09-02;MAI
+1172;Maintainance-fernando;2015-09-02;MAI
+1173;Maintainance-roberto;2015-09-02;MAI
+1174;Maintainance-alfredo;2015-09-03;MAI
+1175;Maintainance-carlosmunguia;2015-09-03;MAI
+1177;Maintainance-josefernandez;2015-09-03;MAI
+1178;Maintainance-josetorres,luistorres;2015-09-03;MAI
+1179;Maintainance-marcell;2015-09-03;MAI
+1180;Maintainance-scottbramer;2015-09-03;MAI
+1181;Maintainance-abel,ringomartinez;2015-09-03;MAI
+1163;Maintainance-jordanforbes,ringomartinez;2015-09-02;MAI
+1184;Maintainance-jordanforbes;2015-09-03;MAI
+1186;Maintainance-roberto;2015-09-03;MAI
+1187;Maintainance-fernando;2015-09-03;MAI
+1169;Maintainance-marcell,donovancaruth;2015-09-02;MAI
+1170;Maintainance-scottbramer,manuellopez;2015-09-02;MAI
+1176;Maintainance-aaron,donovancaruth;2015-09-03;MAI
+1183;Maintainance-daniel;2015-09-03;MAI
+1185;Maintainance-ricardogarcia;2015-09-03;MAI
+1188;Maintainance-johnny;2015-09-03;MAI
+1154;Maintainance-scottbramer,manuellopez;2015-09-01;MAI
+1157;Maintainance-jordanforbes,ringo;2015-09-01;MAI
+1332;Maintenance-abel,daniel-auto-1332;2015-09-14;MAI
+1342;Maintenance-alfredo-auto-1342;2015-09-15;MAI
+1240;Maintainance-johnny;2015-09-07;MAI
+1196;Spray-Jason, Nancy;2015-09-04;MAI
+1362;Pruning-antonio,jason-auto-1362;2015-09-14;PRU
+1372;Maintenance-alfredo-auto-1372;2015-09-16;MAI
+1182;Maintainance-noelkou,manuellopez;2015-09-03;MAI
+1382;Maintenance-fernando,ringo-auto-1382;2015-09-16;MAI
+1209;Maintainance-josetorres,luistorres;2015-09-04;MAI
+1210;Maintainance-carlosmunguia;2015-09-04;MAI
+1211;Maintainance-alfredo;2015-09-04;MAI
+1212;Maintainance-aaron;2015-09-04;MAI
+1213;Maintainance-josefernandez;2015-09-04;MAI
+1214;Maintainance-scottbramer;2015-09-04;MAI
+1216;Maintainance-noelkou;2015-09-04;MAI
+1217;Maintainance-fernando;2015-09-04;MAI
+1218;Maintainance-roberto;2015-09-04;MAI
+1222;Maintainance-ricardogarcia;2015-09-04;MAI
+1219;Maintainance-donovancaruth;2015-09-04;MAI
+1221;Maintainance-daniel,mario;2015-09-04;MAI
+1220;Maintainance-marcell,ringo;2015-09-04;MAI
+1215;Maintainance-jordanforbes;2015-09-04;MAI
+1412;Pruning-unassigned-auto;2015-09-15;PRU
+1228;Maintainance-ramiro,eliasloza;2015-09-07;MAI
+1229;Maintainance-noelkou;2015-09-07;MAI
+1230;Maintainance-hugohernandez,mariomorales;2015-09-07;MAI
+1231;Maintainance-daniel;2015-09-07;MAI
+1232;Maintainance-abel,ringo;2015-09-07;MAI
+1233;Maintainance-scottbramer;2015-09-07;MAI
+1234;Maintainance-ricardogarcia;2015-09-07;MAI
+1235;Maintainance-marcell;2015-09-07;MAI
+1236;Maintainance-aaron;2015-09-07;MAI
+1238;Maintainance-roberto;2015-09-07;MAI
+1239;Maintainance-fernando;2015-09-07;MAI
+1241;Maintainance-carlosmunguia;2015-09-08;MAI
+1242;Maintainance-alfredo;2015-09-08;MAI
+1244;Maintainance-fernando;2015-09-08;MAI
+1245;Maintainance-josetorres,luistorres;2015-09-08;MAI
+1246;Maintainance-marcell;2015-09-08;MAI
+1250;Maintainance-scottbramer;2015-09-08;MAI
+1251;Maintainance-josefernandez;2015-09-08;MAI
+1253;Maintainance-jordanforbes,ringo;2015-09-08;MAI
+1255;Maintainance-roberto;2015-09-08;MAI
+1256;Maintainance-aaron;2015-09-08;MAI
+1252;Maintainance-ricardogarcia;2015-09-08;MAI
+1249;Maintainance-johnny,donovancaruth;2015-09-08;MAI
+1243;Maintainance-noelkou,abel,jonathan;2015-09-08;MAI
+1227;Maintainance-jordanforbes,donovancaruth;2015-09-07;MAI
+1237;Maintainance-josefernandez;2015-09-07;MAI
+1291;Maintainance-johnny;2015-09-10;MAI
+1248;Maintainance-ernesto,daniel;2015-09-08;MAI
+1263;Maintainance-carlosmunguia;2015-09-09;MAI
+1264;Maintainance-josetorres,luistorres;2015-09-09;MAI
+1265;Maintainance-alfredo;2015-09-09;MAI
+1266;Maintainance-jordanforbes,ringo;2015-09-09;MAI
+1267;Maintainance-johnny;2015-09-09;MAI
+1269;Maintainance-josefernandez;2015-09-09;MAI
+1270;Maintainance-ricardogarcia;2015-09-09;MAI
+1271;Maintainance-aaron;2015-09-09;MAI
+1272;Maintainance-marcell;2015-09-09;MAI
+1274;Maintainance-ernesto;2015-09-09;MAI
+1275;Maintainance-fernando;2015-09-09;MAI
+1392;Maintenance-donovancaruth-auto-1392;2015-09-17;MAI
+1402;Maintenance-scottbramer-auto-1402;2015-09-18;MAI
+1422;Pruning-antonio,jasonmontes-auto-1422;2015-09-17;PRU
+1431;Pruning-eliasloza,ramiro-auto-1431;2015-09-18;PRU
+1440;Maintenance-ricardogarcia-auto-1440;2015-09-21;MAI
+1449;Maintenance-giovanniservin-auto-1449;2015-09-22;MAI
+1458;Maintenance-jordanforbes-auto-1458;2015-09-22;MAI
+1467;Maintenance-josefernandez-auto-1467;2015-09-23;MAI
+1476;Maintenance-jonathansanchez-auto-1476;2015-09-24;MAI
+1485;Maintenance-jordanforbes-auto-1485;2015-09-24;MAI
+1494;Maintenance-jordanforbes-auto-1494;2015-09-25;MAI
+1503;Maintenance-ernesto-auto-1503;2015-09-25;MAI
+1512;Pruning-eliasloza,hugohernandez-auto-1512;2015-09-22;PRU
+1276;Maintainance-roberto;2015-09-09;MAI
+1277;Maintainance-alfredo;2015-09-10;MAI
+1278;Maintainance-carlosmunguia;2015-09-10;MAI
+1279;Maintainance-aaron;2015-09-10;MAI
+1280;Maintainance-josefernandez;2015-09-10;MAI
+1281;Maintainance-josetorres,luistorres;2015-09-10;MAI
+1282;Maintainance-marcell;2015-09-10;MAI
+1283;Maintainance-scottbramer;2015-09-10;MAI
+1289;Maintainance-roberto;2015-09-10;MAI
+1294;Maintainance-josetorres,luistorres;2015-09-11;MAI
+1295;Maintainance-carlosmunguia;2015-09-11;MAI
+1297;Maintainance-aaron;2015-09-11;MAI
+1298;Maintainance-josefernandez;2015-09-11;MAI
+1299;Maintainance-scottbramer;2015-09-11;MAI
+1303;Maintainance-roberto;2015-09-11;MAI
+1304;Maintainance-johnny;2015-09-11;MAI
+1307;Maintainance-ricardogarcia;2015-09-11;MAI
+1268;Maintainance-donovancaruth;2015-09-09;MAI
+1284;Maintenance-abel,daniel-auto-1284;2015-09-10;MAI
+1287;Maintenance-jordan-auto-1287;2015-09-10;MAI
+1290;Maintenance-fernando,ringo-auto-1290;2015-09-10;MAI
+1306;Maintenance-ernesto-auto-1306;2015-09-11;MAI
+1273;Maintainance-scottbramer,jonathan;2015-09-09;MAI
+1285;Maintainance-donovancaruth;2015-09-10;MAI
+1286;Maintainance-ernesto;2015-09-10;MAI
+1288;Maintainance-ricardogarcia;2015-09-10;MAI
+15;Projects -Lester;2015-06-08;PRO
+25;Projects- Tony and Alfredo;2015-06-08;PRO
+28;Projects- Tony and Alfredo;2015-06-09;PRO
+29;Projects- Tony and Alfredo;2015-06-10;PRO
+30;Projects-Lester;2015-06-09;PRO
+39;Projects-Lester;2015-06-10;PRO
+40;Projects- Ramiro;2015-06-16;PRO
+54;Projects- Ramiro;2015-06-17;PRO
+77;Projects- irrigation;2015-06-18;PRO
+89;Projects- Abel, Roberto, Jose;2015-06-19;PRO
+121;Projects - Antonio and Edwardo;2015-07-10;PRO
+290;Projects- Abel/Jose/Roberto;2015-06-16;PRO
+291;Projects- Lester/Tony;2015-06-16;PRO
+296;Projects- Ramiro;2015-06-12;PRO
+298;Projects-Lester, Tony, Alfredo;2015-06-12;PRO
+307;Projects- Abel, Hazem;2015-06-12;PRO
+319;Projects- Tony;2015-06-11;PRO
+320;Projects-Lester;2015-06-11;PRO
+332;Projects- Tony and Hazem;2015-06-17;PRO
+338;Projects- Abel, Roberto, Jose;2015-06-17;PRO
+373;Projects-Ramiro/Tony;2015-06-15;PRO
+375;Projects- Abel/new crew;2015-06-15;PRO
+376;Projects- Lester;2015-06-15;PRO
+380;Projects- Abel, Roberto, Jose;2015-06-18;PRO
+466;Projects - Antonio and Eddy;2015-07-13;PRO
+497;Projects-Antonio,Eddy;2015-07-15;PRO
+494;Projects-antonio,eddy;2015-07-14;PRO
+504;Projects-Antonio,Eddy;2015-07-16;PRO
+550;Projects-Antonio,Eddy;2015-07-17;PRO
+565;Projects-Antonio,Eddy;2015-07-20;PRO
+583;Projects-Antonio,Mario;2015-07-21;PRO
+639;Projects-Antonio,Manuel;2015-07-23;PRO
+609;Projects-Antonio,Manuel;2015-07-22;PRO
+643;Projects-Antonio,Manuel;2015-07-24;PRO
+658;Projects-Antonio,Manuel;2015-07-27;PRO
+683;Projects-Antonio,Manuel;2015-07-28;PRO
+690;Projects- Antonio;2015-07-29;PRO
+756;Projects-Antonio,Jordan;2015-08-03;PRO
+705;Projects-Antonio, Mario;2015-07-31;PRO
+776;Projects-Antonio,Jordan;2015-08-04;PRO
+794;Projects-Antonio,Jordan;2015-08-05;PRO
+813;Projects-Antonio,Jordan;2015-08-06;PRO
+827;Projects-Antonio;2015-08-07;PRO
+46;Irrigation - Jesus and Jesus Jr;2015-07-02;IRR
+49;Irrigation - Jesus and Jesus JR;2015-07-08;IRR
+65;Irrigation- Nancy, Jesus, Jesus Jr.;2015-06-29;IRR
+68;Irrigation- Jesus and Jesus Jr;2015-06-30;IRR
+90;Irrigation- Lester and Benito;2015-06-25;IRR
+95;Irrigation- Lester and Benito;2015-06-29;IRR
+114;Irrigation- Jesus and Jesus JR;2015-07-09;IRR
+369;Irrigation;2015-06-24;IRR
+378;Irrigation - Lester and Benito;2015-06-26;IRR
+399;Irrigation- Lester and Benito;2015-06-26;IRR
+427;Irrigation- Jesus and Jesus Jr;2015-07-01;IRR
+429;Irrigation- Jesus and Jesus Jr;2015-07-07;IRR
+432;Irrigation- Jesus and Jesus Jr;2015-07-06;IRR
+461;Irrigation  - Jesus and Jesus;2015-07-10;IRR
+465;Irrigation - Jesus Sr. and Jesus Jr.;2015-07-13;IRR
+492;Irrigation-jesus,jesus;2015-07-14;IRR
+507;Irrigation-JesusSr,JesusJr.;2015-07-15;IRR
+508;Irrigation-JesusSr.,JesusJr.;2015-07-16;IRR
+548;Irrigation,JesusSr.JesusJr.;2015-07-17;IRR
+567;Irrigation-JesusSr,JesusJr;2015-07-20;IRR
+586;Irrigation- Jesus;2015-07-21;IRR
+587;Irrigation- Nancy, Ismael, Antonio;2015-07-21;IRR
+588;Irrigation- Jesus;2015-07-24;IRR
+568;Irrigation-Nancy,Ismael,AntonioNajar;2015-07-20;IRR
+597;Irrigation-Jesus/Jesus;2015-07-22;IRR
+610;Irrigation- Nancy;2015-07-22;IRR
+628;Irrigation- Jesus Jr;2015-07-23;IRR
+640;Irrigation- Jesus Sr, Antonio;2015-07-23;IRR
+589;Irrigation - Ismael;2015-07-24;IRR
+644;Irrigation-Jesus, Ismeal;2015-07-27;IRR
+670;Irrigation- Jesus;2015-07-28;IRR
+686;Irrigation-Jesus;2015-07-29;IRR
+703;Irrigation-Jesus;2015-07-30;IRR
+721;Irrigation- Jesus;2015-07-31;IRR
+725;Irrigation- Jesus;2015-08-03;IRR
+762;Irrigation- Jesus;2015-08-04;IRR
+792;Irrigation- Jesus;2015-08-05;IRR
+796;Irrigation- Jesus;2015-08-06;IRR
+809;Irrigation- Jesus;2015-08-07;IRR
+829;Irrigation- Jesus Jr, Jordan;2015-08-10;IRR
+828;Irrigation- Jesus Sr, Devon;2015-08-10;IRR
+1302;Maintenance-daniel,fernando-auto-1302;2015-09-11;MAI
+1305;Maintenance-marcell-auto-1305;2015-09-11;MAI
+1300;Maintenance-jordan-auto-1300;2015-09-11;MAI
+1301;Maintenance-donovan-auto-1301;2015-09-11;MAI
+1322;Pruning-jesus-auto-1322;2015-09-11;PRU
+1296;Maintenance-alfredo,elias,ramiro-auto-1296;2015-09-11;MAI
+883;Irrigation-JesusSr,Devon;2015-08-11;IRR
+884;Irrigation-JesusJr,Jordan;2015-08-11;IRR
+887;Irrigation-JesusSr,Devon;2015-08-12;IRR
+888;Irrigation-JesusJr,Jordan;2015-08-12;IRR
+905;Irrigation-JesusSr,Jordan;2015-08-13;IRR
+906;Irrigation-JesusJr,Devon;2015-08-13;IRR
+926;Irrigation-JesusSr,JesusJr;2015-08-14;IRR
+928;Irrigation-JesusSr,Jordan;2015-08-17;IRR
+929;Irrigation-JesusJr,Devon;2015-08-17;IRR
+967;Irrigation-JesusSr,Jordan;2015-08-18;IRR
+968;Irrigation-JesusJr,Devon;2015-08-18;IRR
+986;Irrigation-JesusJr,Devon;2015-08-19;IRR
+987;Irrigation-JesusSr,Jordan;2015-08-19;IRR
+1002;Irrigation-Jordan,Devon;2015-08-20;IRR
+1021;IrrigationJesusSr,Jordan;2015-08-21;IRR
+1025;Irrigation-JesusJr,Devon;2015-08-21;IRR
+1045;Irrigation-JesusSr;2015-08-24;IRR
+1046;Irrigation-JesusJr,Devon;2015-08-24;IRR
+1079;Irrigation- Jesus Jr & Devon;2015-08-25;IRR
+1080;Irrigation-Jesus Sr;2015-08-25;IRR
+1114;Irrigation-JesusJr,Devon;2015-08-26;IRR
+1115;Irrigation-JesusSr;2015-08-26;IRR
+1120;Irrigation-JesusJr,Devon;2015-08-27;IRR
+1121;Irrigation-JesusSr;2015-08-27;IRR
+1127;Irrigation-JesusSr;2015-08-28;IRR
+1126;Irrigation-JesusJr,Devon;2015-08-28;IRR
+1146;Irrigation-JesusJr,Devon;2015-08-31;IRR
+1147;Irrigation-JesusSr;2015-08-31;IRR
+1193;Irrigation-JesusJr,Devon;2015-09-01;IRR
+1194;Irrigation-JesusSr;2015-09-01;IRR
+1199;Irrigation-JesusJr,Devon;2015-09-02;IRR
+1200;Irrigation-JesusSr;2015-09-02;IRR
+1207;Irrigation-JesusJr,Devon;2015-09-03;IRR
+1208;Irrigation-JesusSr;2015-09-03;IRR
+1223;Irrigation-JesusSr;2015-09-04;IRR
+1226;Irrigation-JesusJr,Devon;2015-09-04;IRR
+1261;Irrigation-JesusJr,Devon;2015-09-08;IRR
+1262;Irrigation-JesusSr;2015-09-08;IRR
+1308;Irrigation-JesusSr;2015-09-09;IRR
+1309;Irrigation-JesusJr,Devon;2015-09-09;IRR
+35;Pruning-Ramiro;2015-06-10;PRU
+38;Pruning- Antonio and Eddy;2015-07-01;PRU
+42;Pruning- Ramiro and Juan;2015-07-03;PRU
+64;Pruning-Ramiro;2015-06-23;PRU
+73;Pruning- Ramiro and Manuel;2015-07-08;PRU
+74;Pruning- Ramiro plus one;2015-06-24;PRU
+79;Pruning - ramiro and tony;2015-06-26;PRU
+83;Pruning- Ramiro and Juan;2015-07-02;PRU
+93;Pruning- Ramiro plus one;2015-06-25;PRU
+98;Pruning- Daniel and Hugo;2015-07-08;PRU
+100;Pruning Ramiro and Juan;2015-06-29;PRU
+102;Pruning- Antonio and Edward;2015-06-29;PRU
+104;Pruning- Ramiro and Juan;2015-07-01;PRU
+105;Pruning- Antonio and Eddy;2015-07-06;PRU
+110;Pruning- Ramiro and Manuel;2015-07-06;PRU
+111;Pruning- Ramiro and Manuel;2015-07-09;PRU
+120;Pruning- Daniel and Hugo;2015-07-10;PRU
+123;Pruning- Antonio and Edward;2015-07-08;PRU
+318;Pruning- Ramiro;2015-06-11;PRU
+358;Pruning- Antonio and Eddie;2015-06-30;PRU
+364;Pruning-Ramiro, Tony;2015-06-22;PRU
+365;Pruning-Ramiro and Juan;2015-06-30;PRU
+428;Pruning- Daniel and Hugo;2015-07-07;PRU
+431;Pruning- Ramiro and Manuel;2015-07-07;PRU
+454;Pruning- Daniel and Hugo;2015-07-09;PRU
+460;Pruning- Ramiro and Manuel;2015-07-10;PRU
+495;Pruning-daniel,hugo;2015-07-14;PRU
+487;Pruning - Daniel and Hugo;2015-07-13;PRU
+488;Pruning - Ramiro and Manuel;2015-07-13;PRU
+493;Pruning-ramiro,manuel;2015-07-14;PRU
+502;Pruning-Ramiro,Manuel;2015-07-16;PRU
+506;Pruning-Daniel,Hugo;2015-07-16;PRU
+505;Pruning-Daniel,Hugo;2015-07-15;PRU
+501;Pruning-Ramiro,Elias;2015-07-15;PRU
+522;Pruning-Daniel,Hugo;2015-07-17;PRU
+549;Pruning-Ramiro,Manuel;2015-07-17;PRU
+563;Pruning-Ramiro,Manuel;2015-07-20;PRU
+566;Pruning-Daniel,Hugo;2015-07-20;PRU
+605;Pruning- Ramiro, Elias;2015-07-22;PRU
+607;Pruning- Daniel, Hugo;2015-07-22;PRU
+584;Pruning- Ramiro;2015-07-21;PRU
+585;Pruning- Daniel, Hugo;2015-07-21;PRU
+624;Pruning- Ramiro, Elias;2015-07-23;PRU
+623;Pruning- Daniel and Hugo;2015-07-23;PRU
+641;Pruning- Ramiro, Elias;2015-07-24;PRU
+642;Pruning- Daniel, Hugo;2015-07-24;PRU
+660;Pruning-Daniel,Eddie;2015-07-27;PRU
+661;Pruning-Hugo,Mario;2015-07-27;PRU
+659;Pruning-Ramiro,Elias;2015-07-27;PRU
+681;Pruning- Ramiro, Elias;2015-07-28;PRU
+682;Pruning- Daniel, Eddie;2015-07-28;PRU
+684;Pruning- Hugo, Mario;2015-07-28;PRU
+687;Pruning- Ramiro, Elias;2015-07-29;PRU
+688;Pruning- Hugo, Mario;2015-07-29;PRU
+689;Pruning- Daniel, Eddie;2015-07-29;PRU
+704;Pruning- Ramiro, Elias;2015-07-30;PRU
+718;Pruning-Antonio;2015-07-30;PRU
+719;Pruning- Hugo, Mario;2015-07-30;PRU
+720;Pruning- Daniel, Eddy;2015-07-30;PRU
+755;Pruning-Ramiro, Elias;2015-08-04;PRU
+723;Pruning- Daniel, Eddy;2015-07-31;PRU
+722;Pruning- Ramiro, Elias;2015-07-31;PRU
+724;Pruning- Hugo;2015-07-31;PRU
+739;Pruning- Ramiro, Elias;2015-08-03;PRU
+740;Pruning- Hugo, Mario;2015-08-03;PRU
+741;Pruning- Daniel & Edward;2015-08-03;PRU
+774;Pruning- Hugo, Mario;2015-08-04;PRU
+775;Pruning- Daniel, Eddy;2015-08-04;PRU
+758;Pruning- Ramiro;2015-08-05;PRU
+790;Pruning-Hugo, Mario;2015-08-05;PRU
+791;Pruning-Daniel, Eddy;2015-08-05;PRU
+760;Pruning- Daniel, Eddy;2015-08-06;PRU
+759;Pruning-Hugo, Mario;2015-08-06;PRU
+795;Pruning- Ramiro, Elais;2015-08-06;PRU
+811;Pruning- Hugo, Mario;2015-08-07;PRU
+880;Pruning-Daniel,Eddy;2015-08-11;PRU
+810;Pruning- Daniel, Eddy;2015-08-07;PRU
+812;Pruning- Ramiro, Elias;2015-08-07;PRU
+881;Pruning-Antonio,Elias;2015-08-11;PRU
+831;Pruning- Daniel, Eddy;2015-08-10;PRU
+882;Pruning-Hugo,Mario;2015-08-11;PRU
+832;Pruning- Ramiro, Miguel;2015-08-10;PRU
+863;Pruning-Antonio,Elias;2015-08-10;PRU
+830;Pruning- Hugo,Mario;2015-08-10;PRU
+885;Pruning-Ramiro,Arjun;2015-08-12;PRU
+886;Pruning-Antonio, Elias;2015-08-12;PRU
+889;Pruning-Daniel,Eddy;2015-08-12;PRU
+890;Pruning-Hugo,Mario;2015-08-12;PRU
+903;Pruning-Daniel,Eddy;2015-08-13;PRU
+904;Pruning-Hugo,Mario;2015-08-13;PRU
+907;Pruning-Antonio,Elias;2015-08-13;PRU
+908;Pruning-Ramiro,Arjun;2015-08-13;PRU
+912;Pruning-Daniel,Eddy;2015-08-14;PRU
+923;Pruning-Hugo,Mario;2015-08-14;PRU
+924;Pruning-Antonio,Elias;2015-08-14;PRU
+925;Pruning-Ramiro,Jordan;2015-08-14;PRU
+1005;Pruning-Antonio,Jason;2015-08-20;PRU
+944;Pruning-Ramiro,Arjun;2015-08-17;PRU
+945;Pruning-Hugo,Martin;2015-08-17;PRU
+947;Pruning-Daniel,Elias;2015-08-17;PRU
+1006;Pruning-Daniel,Elias;2015-08-20;PRU
+946;Pruning-Antonio,Jason;2015-08-17;PRU
+963;Pruning-Ramiro,Arjun;2015-08-18;PRU
+965;Pruning-Antonio,Jason;2015-08-18;PRU
+964;Pruning-Hugo,Mario;2015-08-18;PRU
+966;Pruning-Daniel,Elias;2015-08-18;PRU
+982;Pruning-Ramiro,Arjun;2015-08-19;PRU
+983;Pruning-Hugo,Mario;2015-08-19;PRU
+984;Pruning-Antonio,Jason;2015-08-19;PRU
+985;Pruning-Daniel,Elias;2015-08-19;PRU
+1003;Pruning,Ramiro-Arjun;2015-08-20;PRU
+1004;Pruning-Hugo,Mario;2015-08-20;PRU
+1022;Pruning-Hugo,Mario;2015-08-21;PRU
+1023;Pruning-Antonio,Jason;2015-08-21;PRU
+1029;Pruning- Ramiro;2015-08-24;PRU
+1028;Pruning- Hugo, Mario;2015-08-24;PRU
+1027;Pruning- Daniel, Elias;2015-08-24;PRU
+1026;Pruning - Antonio, Jason;2015-08-24;PRU
+1123;Pruning-Antonio,Jason;2015-08-28;PRU
+1075;Pruning-Ramiro;2015-08-25;PRU
+1077;Pruning- Antonio;2015-08-25;PRU
+1078;Pruning - Daniel;2015-08-25;PRU
+1124;Pruning-Hugo,Mario;2015-08-28;PRU
+1076;Pruning- Hugo;2015-08-25;PRU
+1110;Pruning-Ramiro,Arjun;2015-08-26;PRU
+1111;Pruning-Hugo,Mario;2015-08-26;PRU
+1112;Pruning-Antonio,Jason;2015-08-26;PRU
+1113;Pruning-Daniel,Elias;2015-08-26;PRU
+1116;Pruning-Ramiro;2015-08-27;PRU
+1118;Pruning-Hugo,Mario;2015-08-27;PRU
+1117;Pruning-Antonio,Jason;2015-08-27;PRU
+1119;Pruning-Daniel,Elias;2015-08-27;PRU
+1122;Pruning-Daniel,Elias;2015-08-28;PRU
+1125;Pruning-Ramiro;2015-08-28;PRU
+1142;Pruning-Ramiro;2015-08-31;PRU
+1143;Pruning-Hugo,Mario;2015-08-31;PRU
+1144;Pruning-Daniel,Elias;2015-08-31;PRU
+1145;Pruning-Antonio,Jason;2015-08-31;PRU
+1189;Pruning-Ramiro;2015-09-01;PRU
+1190;Pruning-Hugo,Mario;2015-09-01;PRU
+1191;Pruning-Antonio,Jason;2015-09-01;PRU
+1192;Pruning-Daniel,Elias;2015-09-01;PRU
+1195;Pruning-Ramiro;2015-09-02;PRU
+1201;Pruning-Hugo,Mario;2015-09-02;PRU
+1202;Pruning-Antonio,Jason;2015-09-02;PRU
+1203;Pruning-Daniel,Elias;2015-09-02;PRU
+1204;Pruning-Ramiro;2015-09-03;PRU
+1205;Pruning-Antonio,Jason;2015-09-03;PRU
+1206;Pruning-Hugo,Mario;2015-09-03;PRU
+1224;Pruning-Ramiro;2015-09-04;PRU
+1225;Pruning-Hugo,Antonio;2015-09-04;PRU
+1258;Pruning-Hugo,Mario;2015-09-08;PRU
+1259;Pruning-Antonio,Jason;2015-09-08;PRU
+1257;Pruning-Ramiro;2015-09-08;PRU
+1310;Pruning-Ramiro;2015-09-09;PRU
+1311;Pruning-Hugo,Mario;2015-09-09;PRU
+1312;Pruning-Antonio,Jason;2015-09-09;PRU
+1536;Maintenance-ricardogarcia-auto-1536;2015-09-28;MAI
+1323;Pruning-hugo,mario-auto-1323;2015-09-11;PRU
+1333;Maintenance-scott-auto-1333;2015-09-14;MAI
+1543;Maintenance-josetorres,luistorres-auto-1543;2015-09-29;MAI
+1343;Maintenance-abel,donovan-auto-1343;2015-09-15;MAI
+1548;Maintenance-marcell-auto-1548;2015-09-29;MAI
+1553;Maintenance-ricardogarcia-auto-1553;2015-09-29;MAI
+1363;Irrigation-devon,jesus-auto-1363;2015-09-14;IRR
+1373;Maintenance-jordan-auto-1373;2015-09-16;MAI
+1383;Maintenance-abel-auto-1383;2015-09-16;MAI
+1558;Maintenance-josetorres,luistorres-auto-1558;2015-09-30;MAI
+1563;Maintenance-josefernandez-auto-1563;2015-09-30;MAI
+1568;Maintenance-ernesto-auto-1568;2015-09-30;MAI
+1413;Pruning-ramiro-auto-1413;2015-09-16;PRU
+1575;Maintenance-josefernandez-auto-1575;2015-10-01;MAI
+1576;Maintenance-marcell-auto-1576;2015-10-01;MAI
+1577;Maintenance-scottbramer-auto-1577;2015-10-01;MAI
+1579;Maintenance-giovanniservin-auto-1579;2015-10-01;MAI
+1580;Maintenance-ernesto-auto-1580;2015-10-01;MAI
+1581;Maintenance-jordanforbes-auto-1581;2015-10-01;MAI
+1582;Maintenance-ricardogarcia-auto-1582;2015-10-01;MAI
+1583;Maintenance-roberto-auto-1583;2015-10-01;MAI
+1584;Maintenance-ringomartinez-auto-1584;2015-10-01;MAI
+1585;Maintenance-donovancaruth-auto-1585;2015-10-01;MAI
+1586;Maintenance-unassigned-auto;2015-09-26;MAI
+1393;Maintenance-ernesto,jordanforbes-auto-1393;2015-09-17;MAI
+1403;Maintenance-jordanforbes-auto-1403;2015-09-18;MAI
+1423;Pruning-hugohernandez-auto-1423;2015-09-17;PRU
+1432;Irrigation-devonoropeza,jesuspinedajr-auto-1432;2015-09-18;IRR
+1441;Maintenance-marcell-auto-1441;2015-09-21;MAI
+1450;Maintenance-fernando,ringomartinez-auto-1450;2015-09-22;MAI
+1459;Maintenance-roberto-auto-1459;2015-09-22;MAI
+1486;Maintenance-ricardogarcia-auto-1486;2015-09-24;MAI
+1495;Maintenance-scottbramer-auto-1495;2015-09-25;MAI
+1504;Pruning-eliasloza,ramiro-auto-1504;2015-09-21;PRU
+1513;Irrigation-devonoropeza,jesuspinedajr-auto-1513;2015-09-22;IRR
+1468;Maintenance-ricardogarcia-auto-1468;2015-09-23;MAI
+1522;Irrigation-devonoropeza,jesuspinedajr-auto-1522;2015-09-24;IRR
+1477;Maintenance-aaron,hugohernandez-auto-1477;2015-09-24;MAI
+1588;Maintenance-alfredo-auto-1588;2015-10-02;MAI
+1572;Maintenance-josetorres,lancebreyer,luistorres-auto-1572;2015-10-01;MAI
+1587;Maintenance-josetorres,luistorres-auto-1587;2015-10-02;MAI
+1589;Maintenance-aaron-auto-1589;2015-10-02;MAI
+1590;Maintenance-josefernandez-auto-1590;2015-10-02;MAI
+1591;Maintenance-jordanforbes-auto-1591;2015-10-02;MAI
+1592;Maintenance-scottbramer-auto-1592;2015-10-02;MAI
+1593;Maintenance-jonathansanchez-auto-1593;2015-10-02;MAI
+1594;Maintenance-giovanniservin-auto-1594;2015-10-02;MAI
+1595;Maintenance-ringomartinez-auto-1595;2015-10-02;MAI
+1596;Maintenance-roberto-auto-1596;2015-10-02;MAI
+1597;Maintenance-donovancaruth-auto-1597;2015-10-02;MAI
+1598;Maintenance-marcell-auto-1598;2015-10-02;MAI
+1599;Maintenance-ricardogarcia-auto-1599;2015-10-02;MAI
+1600;Maintenance-ernesto-auto-1600;2015-10-02;MAI
+1601;Pruning-eliasloza,ramiro-auto-1601;2015-09-28;PRU
+1602;Pruning-hugohernandez-auto-1602;2015-09-28;PRU
+1603;Irrigation-devonoropeza,jesuspinedajr-auto-1603;2015-09-28;IRR
+1604;Irrigation-jesuspineda-auto-1604;2015-09-28;IRR
+1605;Project-jasonmontes-auto-1605;2015-09-28;PRO
+1545;Maintenance-jonathansanchez,lancebreyer-auto-1545;2015-09-29;MAI
+1606;Pruning-ramiro-auto-1606;2015-09-29;PRU
+1607;Pruning-hugohernandez-auto-1607;2015-09-29;PRU
+1608;Irrigation-devonoropeza,jesuspinedajr-auto-1608;2015-09-29;IRR
+1609;Irrigation-jesuspineda-auto-1609;2015-09-29;IRR
+1610;Project-jasonmontes-auto-1610;2015-09-29;PRO
+1611;Pruning-hugohernandez-auto-1611;2015-09-30;PRU
+1612;Pruning-ramiro-auto-1612;2015-09-30;PRU
+1613;Irrigation-devonoropeza,jesuspinedajr-auto-1613;2015-09-30;IRR
+1614;Project-jasonmontes-auto-1614;2015-09-30;PRO
+1615;Project-jasonmontes-auto-1615;2015-10-01;PRO
+1616;Pruning-ramiro-auto-1616;2015-10-01;PRU
+1617;Pruning-hugohernandez-auto-1617;2015-10-01;PRU
+1619;Irrigation-jesuspineda-auto-1619;2015-10-01;IRR
+1618;Irrigation-devonoropeza,jesuspinedajr-auto-1618;2015-10-01;IRR
+1578;Maintenance-abel-auto-1578;2015-10-01;MAI
+1620;Maintenance-josetorres,luistorres-auto-1620;2015-10-05;MAI
+1621;Maintenance-giovanniservin-auto-1621;2015-10-05;MAI
+1622;Maintenance-alfredo-auto-1622;2015-10-05;MAI
+1623;Maintenance-ernesto,jordanforbes-auto-1623;2015-10-05;MAI
+1624;Maintenance-jonathansanchez-auto-1624;2015-10-05;MAI
+1625;Maintenance-scottbramer-auto-1625;2015-10-05;MAI
+1626;Maintenance-ricardogarcia-auto-1626;2015-10-05;MAI
+1627;Maintenance-marcell-auto-1627;2015-10-05;MAI
+1628;Maintenance-aaron-auto-1628;2015-10-05;MAI
+1629;Maintenance-josefernandez-auto-1629;2015-10-05;MAI
+1630;Maintenance-roberto-auto-1630;2015-10-05;MAI
+1631;Maintenance-ringomartinez-auto-1631;2015-10-05;MAI
+1632;Maintenance-donovancaruth-auto-1632;2015-10-05;MAI
+1633;Maintenance-josetorres,luistorres-auto-1633;2015-10-06;MAI
+1634;Maintenance-alfredo-auto-1634;2015-10-06;MAI
+1635;Maintenance-jonathansanchez-auto-1635;2015-10-06;MAI
+1636;Maintenance-giovanniservin-auto-1636;2015-10-06;MAI
+1637;Maintenance-ringomartinez-auto-1637;2015-10-06;MAI
+1638;Maintenance-marcell-auto-1638;2015-10-06;MAI
+1639;Maintenance-ernesto-auto-1639;2015-10-06;MAI
+1640;Maintenance-donovancaruth-auto-1640;2015-10-06;MAI
+1641;Maintenance-scottbramer-auto-1641;2015-10-06;MAI
+1642;Maintenance-josefernandez-auto-1642;2015-10-06;MAI
+1643;Maintenance-ricardogarcia-auto-1643;2015-10-06;MAI
+1644;Maintenance-jordanforbes-auto-1644;2015-10-06;MAI
+1648;Maintenance-aaron-auto-1648;2015-10-06;MAI
+1649;Maintenance-jonathansanchez-auto-1649;2015-10-07;MAI
+1650;Maintenance-josetorres,luistorres-auto-1650;2015-10-07;MAI
+1651;Maintenance-alfredo-auto-1651;2015-10-07;MAI
+1652;Maintenance-jordanforbes-auto-1652;2015-10-07;MAI
+1653;Maintenance-donovancaruth-auto-1653;2015-10-07;MAI
+1654;Maintenance-giovanniservin-auto-1654;2015-10-07;MAI
+1655;Maintenance-josefernandez-auto-1655;2015-10-07;MAI
+1656;Maintenance-ricardogarcia-auto-1656;2015-10-07;MAI
+1657;Maintenance-marcell-auto-1657;2015-10-07;MAI
+1658;Maintenance-aaron-auto-1658;2015-10-07;MAI
+1659;Maintenance-scottbramer-auto-1659;2015-10-07;MAI
+1660;Maintenance-ernesto-auto-1660;2015-10-07;MAI
+1661;Maintenance-ringomartinez-auto-1661;2015-10-07;MAI
+1662;Maintenance-roberto-auto-1662;2015-10-07;MAI
+1663;Maintenance-alfredo-auto-1663;2015-10-08;MAI
+1664;Maintenance-josetorres,luistorres-auto-1664;2015-10-08;MAI
+1665;Maintenance-jonathansanchez-auto-1665;2015-10-08;MAI
+1666;Maintenance-aaron-auto-1666;2015-10-08;MAI
+1667;Maintenance-josefernandez-auto-1667;2015-10-08;MAI
+1668;Maintenance-marcell-auto-1668;2015-10-08;MAI
+1669;Maintenance-scottbramer-auto-1669;2015-10-08;MAI
+1670;Maintenance-abel-auto-1670;2015-10-08;MAI
+1671;Maintenance-giovanniservin-auto-1671;2015-10-08;MAI
+1672;Maintenance-ernesto-auto-1672;2015-10-08;MAI
+1673;Maintenance-jordanforbes-auto-1673;2015-10-08;MAI
+1674;Maintenance-ricardogarcia-auto-1674;2015-10-08;MAI
+1675;Maintenance-roberto-auto-1675;2015-10-08;MAI
+1676;Maintenance-ringomartinez-auto-1676;2015-10-08;MAI
+1677;Maintenance-donovancaruth-auto-1677;2015-10-08;MAI
+1678;Maintenance-josetorres,luistorres-auto-1678;2015-10-09;MAI
+1679;Maintenance-alfredo-auto-1679;2015-10-09;MAI
+1680;Maintenance-aaron-auto-1680;2015-10-09;MAI
+1681;Maintenance-josefernandez-auto-1681;2015-10-09;MAI
+1682;Maintenance-jordanforbes-auto-1682;2015-10-09;MAI
+1683;Maintenance-scottbramer-auto-1683;2015-10-09;MAI
+1684;Maintenance-jonathansanchez-auto-1684;2015-10-09;MAI
+1685;Maintenance-giovanniservin-auto-1685;2015-10-09;MAI
+1686;Maintenance-ringomartinez-auto-1686;2015-10-09;MAI
+1687;Maintenance-roberto-auto-1687;2015-10-09;MAI
+1688;Maintenance-donovancaruth-auto-1688;2015-10-09;MAI
+1689;Maintenance-marcell-auto-1689;2015-10-09;MAI
+1690;Maintenance-ricardogarcia-auto-1690;2015-10-09;MAI
+1691;Maintenance-ernesto-auto-1691;2015-10-09;MAI
+1692;Maintenance-roberto-auto-1692;2015-10-06;MAI
+1693;Pruning-ramiro-auto-1693;2015-10-02;PRU
+1694;Pruning-hugohernandez-auto-1694;2015-10-02;PRU
+1695;Irrigation-jesuspineda,jesuspinedajr-auto-1695;2015-10-02;IRR
+1696;Project-jasonmontes-auto-1696;2015-10-02;PRO
+1698;Pruning-ramiro-auto-1698;2015-10-05;PRU
+1699;Pruning-hugohernandez,jasonmontes-auto-1699;2015-10-05;PRU
+1700;Irrigation-devonoropeza,jesuspinedajr-auto-1700;2015-10-05;IRR
+1701;Irrigation-jesuspineda-auto-1701;2015-10-05;IRR
+1702;Pruning-ramiro-auto-1702;2015-10-06;PRU
+1704;Irrigation-jesuspineda-auto-1704;2015-10-06;IRR
+1705;Irrigation-devonoropeza,jesuspinedajr-auto-1705;2015-10-06;IRR
+1703;Pruning-hugohernandez,jasonmontes-auto-1703;2015-10-06;PRU
